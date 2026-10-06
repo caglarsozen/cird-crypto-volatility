@@ -1,0 +1,5 @@
+symbol,test_blocks,alarm_blocks,stress_reference_blocks,alarm_and_stress_blocks,first_alarm,last_alarm
+BTC-USD,57,14,10,6,2023-11-09,2024-11-13
+ETH-USD,57,21,10,5,2023-11-02,2024-11-27
+LTC-USD,57,12,8,5,2024-02-08,2024-11-13
+XRP-USD,57,21,10,8,2023-11-02,2024-11-27

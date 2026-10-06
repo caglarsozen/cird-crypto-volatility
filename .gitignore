@@ -1,0 +1,5 @@
+results/
+clean_run/
+.Rhistory
+.RData
+.Rproj.user/

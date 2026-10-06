@@ -1,0 +1,17 @@
+parameter,main_design,sensitivity_design,same_core_parameter
+retained_T,1300,1300,TRUE
+burn_in,500,500,TRUE
+HAR_mu,-5,-5,TRUE
+HAR_b_d,0.55,0.55,TRUE
+HAR_b_w,0.25,0.25,TRUE
+HAR_b_m,0.15,0.15,TRUE
+HAR_sigma_u,0.2,0.2,TRUE
+SV_mu,-5,-5,TRUE
+SV_phi,0.97,0.97,TRUE
+SV_sigma_h,0.2,0.2,TRUE
+SV_break_mu1,-5.2,-5.2,TRUE
+SV_break_mu2,-4.5,-4.5,TRUE
+SV_break_fraction,0.8,0.8,TRUE
+SV_break_phi,0.97,0.97,TRUE
+SV_break_sigma_h,0.2,0.2,TRUE
+replications,200,100,FALSE

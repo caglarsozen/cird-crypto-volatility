@@ -1,0 +1,17 @@
+symbol,episode_id,episode_label,event_start,event_end,cird_alarm_forward_overlap_blocks,cird_alarm_block_ids,reference_blocks,reference_block_ids,reference_peak_dates,reference_run_ids
+BTC-USD,ETF_APPROVAL,U.S. spot-Bitcoin ETF approval period,2024-01-07,2024-01-13,0,,0,,,
+BTC-USD,MARCH_HIGHS,March 2024 crypto highs,2024-03-01,2024-03-31,10,"14,15,16,17,18,19,20,21,22,23",5,"15,16,17,18,19",2024-03-05,1
+BTC-USD,AUGUST_SELLOFF,Early-August 2024 market-wide sell-off,2024-08-02,2024-08-08,1,41,5,"37,38,39,40,41",2024-08-05,2
+BTC-USD,NOVEMBER_RALLY,November 2024 crypto rally,2024-11-01,2024-11-30,2,"54,55",0,,,
+ETH-USD,ETF_APPROVAL,U.S. spot-Bitcoin ETF approval period,2024-01-07,2024-01-13,1,11,0,,,
+ETH-USD,MARCH_HIGHS,March 2024 crypto highs,2024-03-01,2024-03-31,7,"17,18,19,20,21,22,23",0,,,
+ETH-USD,AUGUST_SELLOFF,Early-August 2024 market-wide sell-off,2024-08-02,2024-08-08,4,"36,37,38,41",5,"37,38,39,40,41",2024-08-05,2
+ETH-USD,NOVEMBER_RALLY,November 2024 crypto rally,2024-11-01,2024-11-30,3,"52,54,57",0,,,
+XRP-USD,ETF_APPROVAL,U.S. spot-Bitcoin ETF approval period,2024-01-07,2024-01-13,0,,0,,,
+XRP-USD,MARCH_HIGHS,March 2024 crypto highs,2024-03-01,2024-03-31,4,"19,20,21,22",0,,,
+XRP-USD,AUGUST_SELLOFF,Early-August 2024 market-wide sell-off,2024-08-02,2024-08-08,4,"36,37,38,41",5,"37,38,39,40,41",2024-08-07,1
+XRP-USD,NOVEMBER_RALLY,November 2024 crypto rally,2024-11-01,2024-11-30,8,"49,51,52,53,54,55,56,57",5,"52,53,54,55,56",2024-11-16,2
+LTC-USD,ETF_APPROVAL,U.S. spot-Bitcoin ETF approval period,2024-01-07,2024-01-13,0,,0,,,
+LTC-USD,MARCH_HIGHS,March 2024 crypto highs,2024-03-01,2024-03-31,7,"16,18,19,20,21,22,23",5,"16,17,18,19,20",2024-03-11,1
+LTC-USD,AUGUST_SELLOFF,Early-August 2024 market-wide sell-off,2024-08-02,2024-08-08,1,36,0,,,
+LTC-USD,NOVEMBER_RALLY,November 2024 crypto rally,2024-11-01,2024-11-30,2,"54,55",0,,,

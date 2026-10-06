@@ -1,0 +1,2832 @@
+check,passed,max_absolute_error
+BTC-USD:frozen_md5,True,
+BTC-USD:returns,True,1.7763568394002505e-15
+BTC-USD:split_lengths,True,0.0
+BTC-USD:curvature_identity,True,4.705437428587089e-17
+BTC-USD:reference_block_flags,True,0.0
+BTC-USD:reference_threshold,True,0.0
+BTC-USD:reference_peak_dates,True,
+BTC-USD:CIRD:alpha_block_design,True,0.0
+BTC-USD:CIRD:threshold,True,1.1102230246251565e-16
+BTC-USD:CIRD:k_index,True,0.0
+BTC-USD:CIRD:cal_blocks,True,0.0
+BTC-USD:CIRD:test_blocks,True,0.0
+BTC-USD:CIRD:alarm_blocks,True,0.0
+BTC-USD:CIRD:block_exceedance_rate,True,0.0
+BTC-USD:CIRD:block_rate_lo,True,5.551115123125783e-17
+BTC-USD:CIRD:block_rate_hi,True,5.551115123125783e-17
+BTC-USD:CIRD:daily_exceedance_rate,True,0.0
+BTC-USD:CIRD:stress_event_blocks,True,0.0
+BTC-USD:CIRD:stress_event_prevalence,True,0.0
+BTC-USD:CIRD:stress_hit_blocks,True,0.0
+BTC-USD:CIRD:stress_proxy_precision,True,0.0
+BTC-USD:CIRD:stress_proxy_recall,True,0.0
+BTC-USD:CIRD:stress_proxy_f1,True,0.0
+BTC-USD:CIRD:dated_alarm_set,True,0.0
+BTC-USD:CIRD:dated_block_scores,True,2.220446049250313e-16
+BTC-USD:Terminal_FRV:alpha_block_design,True,0.0
+BTC-USD:Terminal_FRV:threshold,True,0.0
+BTC-USD:Terminal_FRV:k_index,True,0.0
+BTC-USD:Terminal_FRV:cal_blocks,True,0.0
+BTC-USD:Terminal_FRV:test_blocks,True,0.0
+BTC-USD:Terminal_FRV:alarm_blocks,True,0.0
+BTC-USD:Terminal_FRV:block_exceedance_rate,True,0.0
+BTC-USD:Terminal_FRV:block_rate_lo,True,1.1102230246251565e-16
+BTC-USD:Terminal_FRV:block_rate_hi,True,1.1102230246251565e-16
+BTC-USD:Terminal_FRV:daily_exceedance_rate,True,0.0
+BTC-USD:Terminal_FRV:stress_event_blocks,True,0.0
+BTC-USD:Terminal_FRV:stress_event_prevalence,True,0.0
+BTC-USD:Terminal_FRV:stress_hit_blocks,True,0.0
+BTC-USD:Terminal_FRV:stress_proxy_precision,True,0.0
+BTC-USD:Terminal_FRV:stress_proxy_recall,True,0.0
+BTC-USD:Terminal_FRV:stress_proxy_f1,True,0.0
+BTC-USD:Terminal_FRV:dated_alarm_set,True,0.0
+BTC-USD:Terminal_FRV:dated_block_scores,True,3.3306690738754696e-16
+BTC-USD:Integrated_upper_tail_rank:alpha_block_design,True,0.0
+BTC-USD:Integrated_upper_tail_rank:threshold,True,5.551115123125783e-17
+BTC-USD:Integrated_upper_tail_rank:k_index,True,0.0
+BTC-USD:Integrated_upper_tail_rank:cal_blocks,True,0.0
+BTC-USD:Integrated_upper_tail_rank:test_blocks,True,0.0
+BTC-USD:Integrated_upper_tail_rank:alarm_blocks,True,0.0
+BTC-USD:Integrated_upper_tail_rank:block_exceedance_rate,True,0.0
+BTC-USD:Integrated_upper_tail_rank:block_rate_lo,True,0.0
+BTC-USD:Integrated_upper_tail_rank:block_rate_hi,True,0.0
+BTC-USD:Integrated_upper_tail_rank:daily_exceedance_rate,True,0.0
+BTC-USD:Integrated_upper_tail_rank:stress_event_blocks,True,0.0
+BTC-USD:Integrated_upper_tail_rank:stress_event_prevalence,True,0.0
+BTC-USD:Integrated_upper_tail_rank:stress_hit_blocks,True,0.0
+BTC-USD:Integrated_upper_tail_rank:stress_proxy_precision,True,0.0
+BTC-USD:Integrated_upper_tail_rank:stress_proxy_recall,True,0.0
+BTC-USD:Integrated_upper_tail_rank:stress_proxy_f1,True,0.0
+BTC-USD:Integrated_upper_tail_rank:dated_alarm_set,True,0.0
+BTC-USD:Integrated_upper_tail_rank:dated_block_scores,True,3.3306690738754696e-16
+BTC-USD:HAR_forward_residual:alpha_block_design,True,0.0
+BTC-USD:HAR_forward_residual:threshold,True,9.992007221626409e-16
+BTC-USD:HAR_forward_residual:k_index,True,0.0
+BTC-USD:HAR_forward_residual:cal_blocks,True,0.0
+BTC-USD:HAR_forward_residual:test_blocks,True,0.0
+BTC-USD:HAR_forward_residual:alarm_blocks,True,0.0
+BTC-USD:HAR_forward_residual:block_exceedance_rate,True,0.0
+BTC-USD:HAR_forward_residual:block_rate_lo,True,5.551115123125783e-17
+BTC-USD:HAR_forward_residual:block_rate_hi,True,5.551115123125783e-17
+BTC-USD:HAR_forward_residual:daily_exceedance_rate,True,0.0
+BTC-USD:HAR_forward_residual:stress_event_blocks,True,0.0
+BTC-USD:HAR_forward_residual:stress_event_prevalence,True,0.0
+BTC-USD:HAR_forward_residual:stress_hit_blocks,True,0.0
+BTC-USD:HAR_forward_residual:stress_proxy_precision,True,0.0
+BTC-USD:HAR_forward_residual:stress_proxy_recall,True,0.0
+BTC-USD:HAR_forward_residual:stress_proxy_f1,True,0.0
+BTC-USD:HAR_forward_residual:dated_alarm_set,True,0.0
+BTC-USD:HAR_forward_residual:dated_block_scores,True,1.1102230246251565e-15
+BTC-USD:ablation:level_only:alpha_block_design,True,0.0
+BTC-USD:ablation:level_only:threshold,True,5.551115123125783e-17
+BTC-USD:ablation:level_only:k_index,True,0.0
+BTC-USD:ablation:level_only:cal_blocks,True,0.0
+BTC-USD:ablation:level_only:test_blocks,True,0.0
+BTC-USD:ablation:level_only:alarm_blocks,True,0.0
+BTC-USD:ablation:level_only:block_exceedance_rate,True,0.0
+BTC-USD:ablation:level_only:block_rate_lo,True,1.1102230246251565e-16
+BTC-USD:ablation:level_only:block_rate_hi,True,1.1102230246251565e-16
+BTC-USD:ablation:level_only:daily_exceedance_rate,True,0.0
+BTC-USD:ablation:level_only:stress_event_blocks,True,0.0
+BTC-USD:ablation:level_only:stress_event_prevalence,True,0.0
+BTC-USD:ablation:level_only:stress_hit_blocks,True,0.0
+BTC-USD:ablation:level_only:stress_proxy_precision,True,0.0
+BTC-USD:ablation:level_only:stress_proxy_recall,True,0.0
+BTC-USD:ablation:level_only:stress_proxy_f1,True,0.0
+BTC-USD:level_terminal_alarm_equivalence,True,0.0
+BTC-USD:ablation:full_CIRD:alpha_block_design,True,0.0
+BTC-USD:ablation:full_CIRD:threshold,True,1.1102230246251565e-16
+BTC-USD:ablation:full_CIRD:k_index,True,0.0
+BTC-USD:ablation:full_CIRD:cal_blocks,True,0.0
+BTC-USD:ablation:full_CIRD:test_blocks,True,0.0
+BTC-USD:ablation:full_CIRD:alarm_blocks,True,0.0
+BTC-USD:ablation:full_CIRD:block_exceedance_rate,True,0.0
+BTC-USD:ablation:full_CIRD:block_rate_lo,True,5.551115123125783e-17
+BTC-USD:ablation:full_CIRD:block_rate_hi,True,5.551115123125783e-17
+BTC-USD:ablation:full_CIRD:daily_exceedance_rate,True,0.0
+BTC-USD:ablation:full_CIRD:stress_event_blocks,True,0.0
+BTC-USD:ablation:full_CIRD:stress_event_prevalence,True,0.0
+BTC-USD:ablation:full_CIRD:stress_hit_blocks,True,0.0
+BTC-USD:ablation:full_CIRD:stress_proxy_precision,True,0.0
+BTC-USD:ablation:full_CIRD:stress_proxy_recall,True,0.0
+BTC-USD:ablation:full_CIRD:stress_proxy_f1,True,0.0
+BTC-USD:ablation:curvature_only:alpha_block_design,True,0.0
+BTC-USD:ablation:curvature_only:threshold,True,0.0
+BTC-USD:ablation:curvature_only:k_index,True,0.0
+BTC-USD:ablation:curvature_only:cal_blocks,True,0.0
+BTC-USD:ablation:curvature_only:test_blocks,True,0.0
+BTC-USD:ablation:curvature_only:alarm_blocks,True,0.0
+BTC-USD:ablation:curvature_only:block_exceedance_rate,True,0.0
+BTC-USD:ablation:curvature_only:block_rate_lo,True,6.938893903907228e-18
+BTC-USD:ablation:curvature_only:block_rate_hi,True,0.0
+BTC-USD:ablation:curvature_only:daily_exceedance_rate,True,0.0
+BTC-USD:ablation:curvature_only:stress_event_blocks,True,0.0
+BTC-USD:ablation:curvature_only:stress_event_prevalence,True,0.0
+BTC-USD:ablation:curvature_only:stress_hit_blocks,True,0.0
+BTC-USD:ablation:curvature_only:stress_proxy_precision,True,0.0
+BTC-USD:ablation:curvature_only:stress_proxy_recall,True,0.0
+BTC-USD:ablation:curvature_only:stress_proxy_f1,True,0.0
+BTC-USD:weight:level_heavy_1:alpha_block_design,True,0.0
+BTC-USD:weight:level_heavy_1:threshold,True,1.1102230246251565e-16
+BTC-USD:weight:level_heavy_1:k_index,True,0.0
+BTC-USD:weight:level_heavy_1:cal_blocks,True,0.0
+BTC-USD:weight:level_heavy_1:test_blocks,True,0.0
+BTC-USD:weight:level_heavy_1:alarm_blocks,True,0.0
+BTC-USD:weight:level_heavy_1:block_exceedance_rate,True,0.0
+BTC-USD:weight:level_heavy_1:block_rate_lo,True,1.1102230246251565e-16
+BTC-USD:weight:level_heavy_1:block_rate_hi,True,0.0
+BTC-USD:weight:level_heavy_1:daily_exceedance_rate,True,0.0
+BTC-USD:weight:level_heavy_1:stress_event_blocks,True,0.0
+BTC-USD:weight:level_heavy_1:stress_event_prevalence,True,0.0
+BTC-USD:weight:level_heavy_1:stress_hit_blocks,True,0.0
+BTC-USD:weight:level_heavy_1:stress_proxy_precision,True,0.0
+BTC-USD:weight:level_heavy_1:stress_proxy_recall,True,0.0
+BTC-USD:weight:level_heavy_1:stress_proxy_f1,True,0.0
+BTC-USD:Jaccard:level_heavy_1,True,0.0
+BTC-USD:weight:level_heavy_2:alpha_block_design,True,0.0
+BTC-USD:weight:level_heavy_2:threshold,True,5.551115123125783e-17
+BTC-USD:weight:level_heavy_2:k_index,True,0.0
+BTC-USD:weight:level_heavy_2:cal_blocks,True,0.0
+BTC-USD:weight:level_heavy_2:test_blocks,True,0.0
+BTC-USD:weight:level_heavy_2:alarm_blocks,True,0.0
+BTC-USD:weight:level_heavy_2:block_exceedance_rate,True,0.0
+BTC-USD:weight:level_heavy_2:block_rate_lo,True,1.1102230246251565e-16
+BTC-USD:weight:level_heavy_2:block_rate_hi,True,1.1102230246251565e-16
+BTC-USD:weight:level_heavy_2:daily_exceedance_rate,True,0.0
+BTC-USD:weight:level_heavy_2:stress_event_blocks,True,0.0
+BTC-USD:weight:level_heavy_2:stress_event_prevalence,True,0.0
+BTC-USD:weight:level_heavy_2:stress_hit_blocks,True,0.0
+BTC-USD:weight:level_heavy_2:stress_proxy_precision,True,0.0
+BTC-USD:weight:level_heavy_2:stress_proxy_recall,True,0.0
+BTC-USD:weight:level_heavy_2:stress_proxy_f1,True,0.0
+BTC-USD:Jaccard:level_heavy_2,True,0.0
+BTC-USD:weight:equal:alpha_block_design,True,0.0
+BTC-USD:weight:equal:threshold,True,1.1102230246251565e-16
+BTC-USD:weight:equal:k_index,True,0.0
+BTC-USD:weight:equal:cal_blocks,True,0.0
+BTC-USD:weight:equal:test_blocks,True,0.0
+BTC-USD:weight:equal:alarm_blocks,True,0.0
+BTC-USD:weight:equal:block_exceedance_rate,True,0.0
+BTC-USD:weight:equal:block_rate_lo,True,5.551115123125783e-17
+BTC-USD:weight:equal:block_rate_hi,True,5.551115123125783e-17
+BTC-USD:weight:equal:daily_exceedance_rate,True,0.0
+BTC-USD:weight:equal:stress_event_blocks,True,0.0
+BTC-USD:weight:equal:stress_event_prevalence,True,0.0
+BTC-USD:weight:equal:stress_hit_blocks,True,0.0
+BTC-USD:weight:equal:stress_proxy_precision,True,0.0
+BTC-USD:weight:equal:stress_proxy_recall,True,0.0
+BTC-USD:weight:equal:stress_proxy_f1,True,0.0
+BTC-USD:Jaccard:equal,True,0.0
+BTC-USD:weight:curvature_heavy_1:alpha_block_design,True,0.0
+BTC-USD:weight:curvature_heavy_1:threshold,True,0.0
+BTC-USD:weight:curvature_heavy_1:k_index,True,0.0
+BTC-USD:weight:curvature_heavy_1:cal_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_1:test_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_1:alarm_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_1:block_exceedance_rate,True,0.0
+BTC-USD:weight:curvature_heavy_1:block_rate_lo,True,5.551115123125783e-17
+BTC-USD:weight:curvature_heavy_1:block_rate_hi,True,5.551115123125783e-17
+BTC-USD:weight:curvature_heavy_1:daily_exceedance_rate,True,0.0
+BTC-USD:weight:curvature_heavy_1:stress_event_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_1:stress_event_prevalence,True,0.0
+BTC-USD:weight:curvature_heavy_1:stress_hit_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_1:stress_proxy_precision,True,0.0
+BTC-USD:weight:curvature_heavy_1:stress_proxy_recall,True,0.0
+BTC-USD:weight:curvature_heavy_1:stress_proxy_f1,True,0.0
+BTC-USD:Jaccard:curvature_heavy_1,True,0.0
+BTC-USD:weight:curvature_heavy_2:alpha_block_design,True,0.0
+BTC-USD:weight:curvature_heavy_2:threshold,True,0.0
+BTC-USD:weight:curvature_heavy_2:k_index,True,0.0
+BTC-USD:weight:curvature_heavy_2:cal_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_2:test_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_2:alarm_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_2:block_exceedance_rate,True,0.0
+BTC-USD:weight:curvature_heavy_2:block_rate_lo,True,6.938893903907228e-18
+BTC-USD:weight:curvature_heavy_2:block_rate_hi,True,0.0
+BTC-USD:weight:curvature_heavy_2:daily_exceedance_rate,True,0.0
+BTC-USD:weight:curvature_heavy_2:stress_event_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_2:stress_event_prevalence,True,0.0
+BTC-USD:weight:curvature_heavy_2:stress_hit_blocks,True,0.0
+BTC-USD:weight:curvature_heavy_2:stress_proxy_precision,True,0.0
+BTC-USD:weight:curvature_heavy_2:stress_proxy_recall,True,0.0
+BTC-USD:weight:curvature_heavy_2:stress_proxy_f1,True,0.0
+BTC-USD:Jaccard:curvature_heavy_2,True,0.0
+BTC-USD:operating_target:0.01:alpha_block_design,True,0.0
+BTC-USD:operating_target:0.01:threshold,True,0.0
+BTC-USD:operating_target:0.01:k_index,True,0.0
+BTC-USD:operating_target:0.01:cal_blocks,True,0.0
+BTC-USD:operating_target:0.01:test_blocks,True,0.0
+BTC-USD:operating_target:0.01:alarm_blocks,True,0.0
+BTC-USD:operating_target:0.01:block_exceedance_rate,True,0.0
+BTC-USD:operating_target:0.01:block_rate_lo,True,6.938893903907228e-18
+BTC-USD:operating_target:0.01:block_rate_hi,True,0.0
+BTC-USD:operating_target:0.01:daily_exceedance_rate,True,0.0
+BTC-USD:operating_target:0.01:stress_event_blocks,True,0.0
+BTC-USD:operating_target:0.01:stress_event_prevalence,True,0.0
+BTC-USD:operating_target:0.01:stress_hit_blocks,True,0.0
+BTC-USD:operating_target:0.01:stress_proxy_precision,True,0.0
+BTC-USD:operating_target:0.01:stress_proxy_recall,True,0.0
+BTC-USD:operating_target:0.01:stress_proxy_f1,True,0.0
+BTC-USD:operating_target:0.05:alpha_block_design,True,0.0
+BTC-USD:operating_target:0.05:threshold,True,1.1102230246251565e-16
+BTC-USD:operating_target:0.05:k_index,True,0.0
+BTC-USD:operating_target:0.05:cal_blocks,True,0.0
+BTC-USD:operating_target:0.05:test_blocks,True,0.0
+BTC-USD:operating_target:0.05:alarm_blocks,True,0.0
+BTC-USD:operating_target:0.05:block_exceedance_rate,True,0.0
+BTC-USD:operating_target:0.05:block_rate_lo,True,5.551115123125783e-17
+BTC-USD:operating_target:0.05:block_rate_hi,True,5.551115123125783e-17
+BTC-USD:operating_target:0.05:daily_exceedance_rate,True,0.0
+BTC-USD:operating_target:0.05:stress_event_blocks,True,0.0
+BTC-USD:operating_target:0.05:stress_event_prevalence,True,0.0
+BTC-USD:operating_target:0.05:stress_hit_blocks,True,0.0
+BTC-USD:operating_target:0.05:stress_proxy_precision,True,0.0
+BTC-USD:operating_target:0.05:stress_proxy_recall,True,0.0
+BTC-USD:operating_target:0.05:stress_proxy_f1,True,0.0
+BTC-USD:operating_target:0.1:alpha_block_design,True,0.0
+BTC-USD:operating_target:0.1:threshold,True,0.0
+BTC-USD:operating_target:0.1:k_index,True,0.0
+BTC-USD:operating_target:0.1:cal_blocks,True,0.0
+BTC-USD:operating_target:0.1:test_blocks,True,0.0
+BTC-USD:operating_target:0.1:alarm_blocks,True,0.0
+BTC-USD:operating_target:0.1:block_exceedance_rate,True,0.0
+BTC-USD:operating_target:0.1:block_rate_lo,True,1.1102230246251565e-16
+BTC-USD:operating_target:0.1:block_rate_hi,True,1.1102230246251565e-16
+BTC-USD:operating_target:0.1:daily_exceedance_rate,True,0.0
+BTC-USD:operating_target:0.1:stress_event_blocks,True,0.0
+BTC-USD:operating_target:0.1:stress_event_prevalence,True,0.0
+BTC-USD:operating_target:0.1:stress_hit_blocks,True,0.0
+BTC-USD:operating_target:0.1:stress_proxy_precision,True,0.0
+BTC-USD:operating_target:0.1:stress_proxy_recall,True,0.0
+BTC-USD:operating_target:0.1:stress_proxy_f1,True,0.0
+BTC-USD:pearson:Training,True,1.3322676295501878e-15
+BTC-USD:spearman:Training,True,1.1102230246251565e-16
+BTC-USD:pearson:Test,True,4.440892098500626e-16
+BTC-USD:spearman:Test,True,1.1102230246251565e-16
+"BTC-USD:design:(15, 5, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 5, 0.15):threshold",True,0.0
+"BTC-USD:design:(15, 5, 0.15):k_index",True,0.0
+"BTC-USD:design:(15, 5, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 5, 0.15):block_rate_lo",True,0.0
+"BTC-USD:design:(15, 5, 0.15):block_rate_hi",True,0.0
+"BTC-USD:design:(15, 5, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 5, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 5, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 5, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 5, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 7, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 7, 0.15):threshold",True,0.0
+"BTC-USD:design:(15, 7, 0.15):k_index",True,0.0
+"BTC-USD:design:(15, 7, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 7, 0.15):block_rate_lo",True,0.0
+"BTC-USD:design:(15, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"BTC-USD:design:(15, 7, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 7, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 7, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 7, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 7, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 10, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 10, 0.15):threshold",True,0.0
+"BTC-USD:design:(15, 10, 0.15):k_index",True,0.0
+"BTC-USD:design:(15, 10, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 10, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"BTC-USD:design:(15, 10, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"BTC-USD:design:(15, 10, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 10, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 10, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 10, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 10, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 5, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 5, 0.2):threshold",True,0.0
+"BTC-USD:design:(15, 5, 0.2):k_index",True,0.0
+"BTC-USD:design:(15, 5, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 5, 0.2):block_rate_lo",True,0.0
+"BTC-USD:design:(15, 5, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"BTC-USD:design:(15, 5, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 5, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 5, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 5, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 5, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 7, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 7, 0.2):threshold",True,0.0
+"BTC-USD:design:(15, 7, 0.2):k_index",True,0.0
+"BTC-USD:design:(15, 7, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 7, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"BTC-USD:design:(15, 7, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"BTC-USD:design:(15, 7, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 7, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 7, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 7, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 7, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 10, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 10, 0.2):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(15, 10, 0.2):k_index",True,0.0
+"BTC-USD:design:(15, 10, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 10, 0.2):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(15, 10, 0.2):block_rate_hi",True,2.220446049250313e-16
+"BTC-USD:design:(15, 10, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 10, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 10, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 10, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 10, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 5, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 5, 0.25):threshold",True,0.0
+"BTC-USD:design:(15, 5, 0.25):k_index",True,0.0
+"BTC-USD:design:(15, 5, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 5, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"BTC-USD:design:(15, 5, 0.25):block_rate_hi",True,2.7755575615628914e-17
+"BTC-USD:design:(15, 5, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 5, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 5, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 5, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 5, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 5, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 7, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 7, 0.25):threshold",True,0.0
+"BTC-USD:design:(15, 7, 0.25):k_index",True,0.0
+"BTC-USD:design:(15, 7, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 7, 0.25):block_rate_lo",True,4.163336342344337e-17
+"BTC-USD:design:(15, 7, 0.25):block_rate_hi",True,0.0
+"BTC-USD:design:(15, 7, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 7, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 7, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 7, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 7, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 7, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(15, 10, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(15, 10, 0.25):threshold",True,0.0
+"BTC-USD:design:(15, 10, 0.25):k_index",True,0.0
+"BTC-USD:design:(15, 10, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 10, 0.25):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(15, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"BTC-USD:design:(15, 10, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(15, 10, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(15, 10, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(15, 10, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(15, 10, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(15, 10, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 5, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 5, 0.15):threshold",True,0.0
+"BTC-USD:design:(30, 5, 0.15):k_index",True,0.0
+"BTC-USD:design:(30, 5, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 5, 0.15):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(30, 5, 0.15):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(30, 5, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 5, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 5, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 5, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 5, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 7, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 7, 0.15):threshold",True,0.0
+"BTC-USD:design:(30, 7, 0.15):k_index",True,0.0
+"BTC-USD:design:(30, 7, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 7, 0.15):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(30, 7, 0.15):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(30, 7, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 7, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 7, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 7, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 7, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 10, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 10, 0.15):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(30, 10, 0.15):k_index",True,0.0
+"BTC-USD:design:(30, 10, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 10, 0.15):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(30, 10, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"BTC-USD:design:(30, 10, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 10, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 10, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 10, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 10, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 5, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 5, 0.2):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(30, 5, 0.2):k_index",True,0.0
+"BTC-USD:design:(30, 5, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 5, 0.2):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(30, 5, 0.2):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(30, 5, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 5, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 5, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 5, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 5, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 7, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 7, 0.2):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(30, 7, 0.2):k_index",True,0.0
+"BTC-USD:design:(30, 7, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 7, 0.2):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(30, 7, 0.2):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(30, 7, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 7, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 7, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 7, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 7, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 10, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 10, 0.2):threshold",True,0.0
+"BTC-USD:design:(30, 10, 0.2):k_index",True,0.0
+"BTC-USD:design:(30, 10, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 10, 0.2):block_rate_lo",True,0.0
+"BTC-USD:design:(30, 10, 0.2):block_rate_hi",True,0.0
+"BTC-USD:design:(30, 10, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 10, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 10, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 10, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 10, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 5, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 5, 0.25):threshold",True,0.0
+"BTC-USD:design:(30, 5, 0.25):k_index",True,0.0
+"BTC-USD:design:(30, 5, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 5, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"BTC-USD:design:(30, 5, 0.25):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(30, 5, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 5, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 5, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 5, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 5, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 5, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 7, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 7, 0.25):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(30, 7, 0.25):k_index",True,0.0
+"BTC-USD:design:(30, 7, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 7, 0.25):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(30, 7, 0.25):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(30, 7, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 7, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 7, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 7, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 7, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 7, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(30, 10, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(30, 10, 0.25):threshold",True,0.0
+"BTC-USD:design:(30, 10, 0.25):k_index",True,0.0
+"BTC-USD:design:(30, 10, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 10, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"BTC-USD:design:(30, 10, 0.25):block_rate_hi",True,0.0
+"BTC-USD:design:(30, 10, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(30, 10, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(30, 10, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(30, 10, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(30, 10, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(30, 10, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 5, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 5, 0.15):threshold",True,0.0
+"BTC-USD:design:(60, 5, 0.15):k_index",True,0.0
+"BTC-USD:design:(60, 5, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 5, 0.15):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(60, 5, 0.15):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(60, 5, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 5, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 5, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 5, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 5, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 7, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 7, 0.15):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(60, 7, 0.15):k_index",True,0.0
+"BTC-USD:design:(60, 7, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 7, 0.15):block_rate_lo",True,0.0
+"BTC-USD:design:(60, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"BTC-USD:design:(60, 7, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 7, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 7, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 7, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 7, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 10, 0.15):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 10, 0.15):threshold",True,0.0
+"BTC-USD:design:(60, 10, 0.15):k_index",True,0.0
+"BTC-USD:design:(60, 10, 0.15):cal_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.15):test_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.15):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.15):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 10, 0.15):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(60, 10, 0.15):block_rate_hi",True,0.0
+"BTC-USD:design:(60, 10, 0.15):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 10, 0.15):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.15):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 10, 0.15):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.15):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 10, 0.15):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 10, 0.15):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 5, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 5, 0.2):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(60, 5, 0.2):k_index",True,0.0
+"BTC-USD:design:(60, 5, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 5, 0.2):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(60, 5, 0.2):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(60, 5, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 5, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 5, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 5, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 5, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 7, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 7, 0.2):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(60, 7, 0.2):k_index",True,0.0
+"BTC-USD:design:(60, 7, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 7, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"BTC-USD:design:(60, 7, 0.2):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(60, 7, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 7, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 7, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 7, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 7, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 10, 0.2):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 10, 0.2):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(60, 10, 0.2):k_index",True,0.0
+"BTC-USD:design:(60, 10, 0.2):cal_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.2):test_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.2):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.2):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 10, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"BTC-USD:design:(60, 10, 0.2):block_rate_hi",True,0.0
+"BTC-USD:design:(60, 10, 0.2):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 10, 0.2):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.2):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 10, 0.2):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.2):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 10, 0.2):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 10, 0.2):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 5, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 5, 0.25):threshold",True,1.1102230246251565e-16
+"BTC-USD:design:(60, 5, 0.25):k_index",True,0.0
+"BTC-USD:design:(60, 5, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 5, 0.25):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(60, 5, 0.25):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(60, 5, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 5, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 5, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 5, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 5, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 5, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 7, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 7, 0.25):threshold",True,2.220446049250313e-16
+"BTC-USD:design:(60, 7, 0.25):k_index",True,0.0
+"BTC-USD:design:(60, 7, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 7, 0.25):block_rate_lo",True,5.551115123125783e-17
+"BTC-USD:design:(60, 7, 0.25):block_rate_hi",True,5.551115123125783e-17
+"BTC-USD:design:(60, 7, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 7, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 7, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 7, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 7, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 7, 0.25):stress_proxy_f1",True,0.0
+"BTC-USD:design:(60, 10, 0.25):alpha_block_design",True,0.0
+"BTC-USD:design:(60, 10, 0.25):threshold",True,0.0
+"BTC-USD:design:(60, 10, 0.25):k_index",True,0.0
+"BTC-USD:design:(60, 10, 0.25):cal_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.25):test_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.25):alarm_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.25):block_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 10, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"BTC-USD:design:(60, 10, 0.25):block_rate_hi",True,0.0
+"BTC-USD:design:(60, 10, 0.25):daily_exceedance_rate",True,0.0
+"BTC-USD:design:(60, 10, 0.25):stress_event_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.25):stress_event_prevalence",True,0.0
+"BTC-USD:design:(60, 10, 0.25):stress_hit_blocks",True,0.0
+"BTC-USD:design:(60, 10, 0.25):stress_proxy_precision",True,0.0
+"BTC-USD:design:(60, 10, 0.25):stress_proxy_recall",True,0.0
+"BTC-USD:design:(60, 10, 0.25):stress_proxy_f1",True,0.0
+ETH-USD:frozen_md5,True,
+ETH-USD:returns,True,8.881784197001252e-16
+ETH-USD:split_lengths,True,0.0
+ETH-USD:curvature_identity,True,5.551115123125783e-17
+ETH-USD:reference_block_flags,True,0.0
+ETH-USD:reference_threshold,True,0.0
+ETH-USD:reference_peak_dates,True,
+ETH-USD:CIRD:alpha_block_design,True,0.0
+ETH-USD:CIRD:threshold,True,0.0
+ETH-USD:CIRD:k_index,True,0.0
+ETH-USD:CIRD:cal_blocks,True,0.0
+ETH-USD:CIRD:test_blocks,True,0.0
+ETH-USD:CIRD:alarm_blocks,True,0.0
+ETH-USD:CIRD:block_exceedance_rate,True,0.0
+ETH-USD:CIRD:block_rate_lo,True,1.1102230246251565e-16
+ETH-USD:CIRD:block_rate_hi,True,1.1102230246251565e-16
+ETH-USD:CIRD:daily_exceedance_rate,True,0.0
+ETH-USD:CIRD:stress_event_blocks,True,0.0
+ETH-USD:CIRD:stress_event_prevalence,True,0.0
+ETH-USD:CIRD:stress_hit_blocks,True,0.0
+ETH-USD:CIRD:stress_proxy_precision,True,0.0
+ETH-USD:CIRD:stress_proxy_recall,True,0.0
+ETH-USD:CIRD:stress_proxy_f1,True,0.0
+ETH-USD:CIRD:dated_alarm_set,True,0.0
+ETH-USD:CIRD:dated_block_scores,True,2.220446049250313e-16
+ETH-USD:Terminal_FRV:alpha_block_design,True,0.0
+ETH-USD:Terminal_FRV:threshold,True,3.0531133177191805e-16
+ETH-USD:Terminal_FRV:k_index,True,0.0
+ETH-USD:Terminal_FRV:cal_blocks,True,0.0
+ETH-USD:Terminal_FRV:test_blocks,True,0.0
+ETH-USD:Terminal_FRV:alarm_blocks,True,0.0
+ETH-USD:Terminal_FRV:block_exceedance_rate,True,0.0
+ETH-USD:Terminal_FRV:block_rate_lo,True,2.220446049250313e-16
+ETH-USD:Terminal_FRV:block_rate_hi,True,0.0
+ETH-USD:Terminal_FRV:daily_exceedance_rate,True,0.0
+ETH-USD:Terminal_FRV:stress_event_blocks,True,0.0
+ETH-USD:Terminal_FRV:stress_event_prevalence,True,0.0
+ETH-USD:Terminal_FRV:stress_hit_blocks,True,0.0
+ETH-USD:Terminal_FRV:stress_proxy_precision,True,0.0
+ETH-USD:Terminal_FRV:stress_proxy_recall,True,0.0
+ETH-USD:Terminal_FRV:stress_proxy_f1,True,0.0
+ETH-USD:Terminal_FRV:dated_alarm_set,True,0.0
+ETH-USD:Terminal_FRV:dated_block_scores,True,6.106226635438361e-16
+ETH-USD:Integrated_upper_tail_rank:alpha_block_design,True,0.0
+ETH-USD:Integrated_upper_tail_rank:threshold,True,0.0
+ETH-USD:Integrated_upper_tail_rank:k_index,True,0.0
+ETH-USD:Integrated_upper_tail_rank:cal_blocks,True,0.0
+ETH-USD:Integrated_upper_tail_rank:test_blocks,True,0.0
+ETH-USD:Integrated_upper_tail_rank:alarm_blocks,True,0.0
+ETH-USD:Integrated_upper_tail_rank:block_exceedance_rate,True,0.0
+ETH-USD:Integrated_upper_tail_rank:block_rate_lo,True,0.0
+ETH-USD:Integrated_upper_tail_rank:block_rate_hi,True,0.0
+ETH-USD:Integrated_upper_tail_rank:daily_exceedance_rate,True,0.0
+ETH-USD:Integrated_upper_tail_rank:stress_event_blocks,True,0.0
+ETH-USD:Integrated_upper_tail_rank:stress_event_prevalence,True,0.0
+ETH-USD:Integrated_upper_tail_rank:stress_hit_blocks,True,0.0
+ETH-USD:Integrated_upper_tail_rank:stress_proxy_precision,True,0.0
+ETH-USD:Integrated_upper_tail_rank:stress_proxy_recall,True,0.0
+ETH-USD:Integrated_upper_tail_rank:stress_proxy_f1,True,0.0
+ETH-USD:Integrated_upper_tail_rank:dated_alarm_set,True,0.0
+ETH-USD:Integrated_upper_tail_rank:dated_block_scores,True,2.220446049250313e-16
+ETH-USD:HAR_forward_residual:alpha_block_design,True,0.0
+ETH-USD:HAR_forward_residual:threshold,True,1.4432899320127035e-15
+ETH-USD:HAR_forward_residual:k_index,True,0.0
+ETH-USD:HAR_forward_residual:cal_blocks,True,0.0
+ETH-USD:HAR_forward_residual:test_blocks,True,0.0
+ETH-USD:HAR_forward_residual:alarm_blocks,True,0.0
+ETH-USD:HAR_forward_residual:block_exceedance_rate,True,0.0
+ETH-USD:HAR_forward_residual:block_rate_lo,True,0.0
+ETH-USD:HAR_forward_residual:block_rate_hi,True,0.0
+ETH-USD:HAR_forward_residual:daily_exceedance_rate,True,0.0
+ETH-USD:HAR_forward_residual:stress_event_blocks,True,0.0
+ETH-USD:HAR_forward_residual:stress_event_prevalence,True,0.0
+ETH-USD:HAR_forward_residual:stress_hit_blocks,True,0.0
+ETH-USD:HAR_forward_residual:stress_proxy_precision,True,0.0
+ETH-USD:HAR_forward_residual:stress_proxy_recall,True,0.0
+ETH-USD:HAR_forward_residual:stress_proxy_f1,True,0.0
+ETH-USD:HAR_forward_residual:dated_alarm_set,True,0.0
+ETH-USD:HAR_forward_residual:dated_block_scores,True,1.915134717478395e-14
+ETH-USD:ablation:level_only:alpha_block_design,True,0.0
+ETH-USD:ablation:level_only:threshold,True,1.6653345369377348e-16
+ETH-USD:ablation:level_only:k_index,True,0.0
+ETH-USD:ablation:level_only:cal_blocks,True,0.0
+ETH-USD:ablation:level_only:test_blocks,True,0.0
+ETH-USD:ablation:level_only:alarm_blocks,True,0.0
+ETH-USD:ablation:level_only:block_exceedance_rate,True,0.0
+ETH-USD:ablation:level_only:block_rate_lo,True,2.220446049250313e-16
+ETH-USD:ablation:level_only:block_rate_hi,True,0.0
+ETH-USD:ablation:level_only:daily_exceedance_rate,True,0.0
+ETH-USD:ablation:level_only:stress_event_blocks,True,0.0
+ETH-USD:ablation:level_only:stress_event_prevalence,True,0.0
+ETH-USD:ablation:level_only:stress_hit_blocks,True,0.0
+ETH-USD:ablation:level_only:stress_proxy_precision,True,0.0
+ETH-USD:ablation:level_only:stress_proxy_recall,True,0.0
+ETH-USD:ablation:level_only:stress_proxy_f1,True,0.0
+ETH-USD:level_terminal_alarm_equivalence,True,0.0
+ETH-USD:ablation:full_CIRD:alpha_block_design,True,0.0
+ETH-USD:ablation:full_CIRD:threshold,True,0.0
+ETH-USD:ablation:full_CIRD:k_index,True,0.0
+ETH-USD:ablation:full_CIRD:cal_blocks,True,0.0
+ETH-USD:ablation:full_CIRD:test_blocks,True,0.0
+ETH-USD:ablation:full_CIRD:alarm_blocks,True,0.0
+ETH-USD:ablation:full_CIRD:block_exceedance_rate,True,0.0
+ETH-USD:ablation:full_CIRD:block_rate_lo,True,1.1102230246251565e-16
+ETH-USD:ablation:full_CIRD:block_rate_hi,True,1.1102230246251565e-16
+ETH-USD:ablation:full_CIRD:daily_exceedance_rate,True,0.0
+ETH-USD:ablation:full_CIRD:stress_event_blocks,True,0.0
+ETH-USD:ablation:full_CIRD:stress_event_prevalence,True,0.0
+ETH-USD:ablation:full_CIRD:stress_hit_blocks,True,0.0
+ETH-USD:ablation:full_CIRD:stress_proxy_precision,True,0.0
+ETH-USD:ablation:full_CIRD:stress_proxy_recall,True,0.0
+ETH-USD:ablation:full_CIRD:stress_proxy_f1,True,0.0
+ETH-USD:ablation:curvature_only:alpha_block_design,True,0.0
+ETH-USD:ablation:curvature_only:threshold,True,1.1102230246251565e-16
+ETH-USD:ablation:curvature_only:k_index,True,0.0
+ETH-USD:ablation:curvature_only:cal_blocks,True,0.0
+ETH-USD:ablation:curvature_only:test_blocks,True,0.0
+ETH-USD:ablation:curvature_only:alarm_blocks,True,0.0
+ETH-USD:ablation:curvature_only:block_exceedance_rate,True,0.0
+ETH-USD:ablation:curvature_only:block_rate_lo,True,0.0
+ETH-USD:ablation:curvature_only:block_rate_hi,True,1.3877787807814457e-17
+ETH-USD:ablation:curvature_only:daily_exceedance_rate,True,0.0
+ETH-USD:ablation:curvature_only:stress_event_blocks,True,0.0
+ETH-USD:ablation:curvature_only:stress_event_prevalence,True,0.0
+ETH-USD:ablation:curvature_only:stress_hit_blocks,True,0.0
+ETH-USD:ablation:curvature_only:stress_proxy_precision,True,
+ETH-USD:ablation:curvature_only:stress_proxy_recall,True,0.0
+ETH-USD:ablation:curvature_only:stress_proxy_f1,True,0.0
+ETH-USD:weight:level_heavy_1:alpha_block_design,True,0.0
+ETH-USD:weight:level_heavy_1:threshold,True,2.220446049250313e-16
+ETH-USD:weight:level_heavy_1:k_index,True,0.0
+ETH-USD:weight:level_heavy_1:cal_blocks,True,0.0
+ETH-USD:weight:level_heavy_1:test_blocks,True,0.0
+ETH-USD:weight:level_heavy_1:alarm_blocks,True,0.0
+ETH-USD:weight:level_heavy_1:block_exceedance_rate,True,0.0
+ETH-USD:weight:level_heavy_1:block_rate_lo,True,0.0
+ETH-USD:weight:level_heavy_1:block_rate_hi,True,0.0
+ETH-USD:weight:level_heavy_1:daily_exceedance_rate,True,0.0
+ETH-USD:weight:level_heavy_1:stress_event_blocks,True,0.0
+ETH-USD:weight:level_heavy_1:stress_event_prevalence,True,0.0
+ETH-USD:weight:level_heavy_1:stress_hit_blocks,True,0.0
+ETH-USD:weight:level_heavy_1:stress_proxy_precision,True,0.0
+ETH-USD:weight:level_heavy_1:stress_proxy_recall,True,0.0
+ETH-USD:weight:level_heavy_1:stress_proxy_f1,True,0.0
+ETH-USD:Jaccard:level_heavy_1,True,0.0
+ETH-USD:weight:level_heavy_2:alpha_block_design,True,0.0
+ETH-USD:weight:level_heavy_2:threshold,True,2.220446049250313e-16
+ETH-USD:weight:level_heavy_2:k_index,True,0.0
+ETH-USD:weight:level_heavy_2:cal_blocks,True,0.0
+ETH-USD:weight:level_heavy_2:test_blocks,True,0.0
+ETH-USD:weight:level_heavy_2:alarm_blocks,True,0.0
+ETH-USD:weight:level_heavy_2:block_exceedance_rate,True,0.0
+ETH-USD:weight:level_heavy_2:block_rate_lo,True,1.1102230246251565e-16
+ETH-USD:weight:level_heavy_2:block_rate_hi,True,1.1102230246251565e-16
+ETH-USD:weight:level_heavy_2:daily_exceedance_rate,True,0.0
+ETH-USD:weight:level_heavy_2:stress_event_blocks,True,0.0
+ETH-USD:weight:level_heavy_2:stress_event_prevalence,True,0.0
+ETH-USD:weight:level_heavy_2:stress_hit_blocks,True,0.0
+ETH-USD:weight:level_heavy_2:stress_proxy_precision,True,0.0
+ETH-USD:weight:level_heavy_2:stress_proxy_recall,True,0.0
+ETH-USD:weight:level_heavy_2:stress_proxy_f1,True,0.0
+ETH-USD:Jaccard:level_heavy_2,True,0.0
+ETH-USD:weight:equal:alpha_block_design,True,0.0
+ETH-USD:weight:equal:threshold,True,0.0
+ETH-USD:weight:equal:k_index,True,0.0
+ETH-USD:weight:equal:cal_blocks,True,0.0
+ETH-USD:weight:equal:test_blocks,True,0.0
+ETH-USD:weight:equal:alarm_blocks,True,0.0
+ETH-USD:weight:equal:block_exceedance_rate,True,0.0
+ETH-USD:weight:equal:block_rate_lo,True,1.1102230246251565e-16
+ETH-USD:weight:equal:block_rate_hi,True,1.1102230246251565e-16
+ETH-USD:weight:equal:daily_exceedance_rate,True,0.0
+ETH-USD:weight:equal:stress_event_blocks,True,0.0
+ETH-USD:weight:equal:stress_event_prevalence,True,0.0
+ETH-USD:weight:equal:stress_hit_blocks,True,0.0
+ETH-USD:weight:equal:stress_proxy_precision,True,0.0
+ETH-USD:weight:equal:stress_proxy_recall,True,0.0
+ETH-USD:weight:equal:stress_proxy_f1,True,0.0
+ETH-USD:Jaccard:equal,True,0.0
+ETH-USD:weight:curvature_heavy_1:alpha_block_design,True,0.0
+ETH-USD:weight:curvature_heavy_1:threshold,True,0.0
+ETH-USD:weight:curvature_heavy_1:k_index,True,0.0
+ETH-USD:weight:curvature_heavy_1:cal_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_1:test_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_1:alarm_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_1:block_exceedance_rate,True,0.0
+ETH-USD:weight:curvature_heavy_1:block_rate_lo,True,5.551115123125783e-17
+ETH-USD:weight:curvature_heavy_1:block_rate_hi,True,5.551115123125783e-17
+ETH-USD:weight:curvature_heavy_1:daily_exceedance_rate,True,0.0
+ETH-USD:weight:curvature_heavy_1:stress_event_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_1:stress_event_prevalence,True,0.0
+ETH-USD:weight:curvature_heavy_1:stress_hit_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_1:stress_proxy_precision,True,0.0
+ETH-USD:weight:curvature_heavy_1:stress_proxy_recall,True,0.0
+ETH-USD:weight:curvature_heavy_1:stress_proxy_f1,True,0.0
+ETH-USD:Jaccard:curvature_heavy_1,True,0.0
+ETH-USD:weight:curvature_heavy_2:alpha_block_design,True,0.0
+ETH-USD:weight:curvature_heavy_2:threshold,True,0.0
+ETH-USD:weight:curvature_heavy_2:k_index,True,0.0
+ETH-USD:weight:curvature_heavy_2:cal_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_2:test_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_2:alarm_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_2:block_exceedance_rate,True,0.0
+ETH-USD:weight:curvature_heavy_2:block_rate_lo,True,6.938893903907228e-18
+ETH-USD:weight:curvature_heavy_2:block_rate_hi,True,0.0
+ETH-USD:weight:curvature_heavy_2:daily_exceedance_rate,True,0.0
+ETH-USD:weight:curvature_heavy_2:stress_event_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_2:stress_event_prevalence,True,0.0
+ETH-USD:weight:curvature_heavy_2:stress_hit_blocks,True,0.0
+ETH-USD:weight:curvature_heavy_2:stress_proxy_precision,True,0.0
+ETH-USD:weight:curvature_heavy_2:stress_proxy_recall,True,0.0
+ETH-USD:weight:curvature_heavy_2:stress_proxy_f1,True,0.0
+ETH-USD:Jaccard:curvature_heavy_2,True,0.0
+ETH-USD:operating_target:0.01:alpha_block_design,True,0.0
+ETH-USD:operating_target:0.01:threshold,True,1.1102230246251565e-16
+ETH-USD:operating_target:0.01:k_index,True,0.0
+ETH-USD:operating_target:0.01:cal_blocks,True,0.0
+ETH-USD:operating_target:0.01:test_blocks,True,0.0
+ETH-USD:operating_target:0.01:alarm_blocks,True,0.0
+ETH-USD:operating_target:0.01:block_exceedance_rate,True,0.0
+ETH-USD:operating_target:0.01:block_rate_lo,True,0.0
+ETH-USD:operating_target:0.01:block_rate_hi,True,1.3877787807814457e-17
+ETH-USD:operating_target:0.01:daily_exceedance_rate,True,0.0
+ETH-USD:operating_target:0.01:stress_event_blocks,True,0.0
+ETH-USD:operating_target:0.01:stress_event_prevalence,True,0.0
+ETH-USD:operating_target:0.01:stress_hit_blocks,True,0.0
+ETH-USD:operating_target:0.01:stress_proxy_precision,True,
+ETH-USD:operating_target:0.01:stress_proxy_recall,True,0.0
+ETH-USD:operating_target:0.01:stress_proxy_f1,True,0.0
+ETH-USD:operating_target:0.05:alpha_block_design,True,0.0
+ETH-USD:operating_target:0.05:threshold,True,0.0
+ETH-USD:operating_target:0.05:k_index,True,0.0
+ETH-USD:operating_target:0.05:cal_blocks,True,0.0
+ETH-USD:operating_target:0.05:test_blocks,True,0.0
+ETH-USD:operating_target:0.05:alarm_blocks,True,0.0
+ETH-USD:operating_target:0.05:block_exceedance_rate,True,0.0
+ETH-USD:operating_target:0.05:block_rate_lo,True,1.1102230246251565e-16
+ETH-USD:operating_target:0.05:block_rate_hi,True,1.1102230246251565e-16
+ETH-USD:operating_target:0.05:daily_exceedance_rate,True,0.0
+ETH-USD:operating_target:0.05:stress_event_blocks,True,0.0
+ETH-USD:operating_target:0.05:stress_event_prevalence,True,0.0
+ETH-USD:operating_target:0.05:stress_hit_blocks,True,0.0
+ETH-USD:operating_target:0.05:stress_proxy_precision,True,0.0
+ETH-USD:operating_target:0.05:stress_proxy_recall,True,0.0
+ETH-USD:operating_target:0.05:stress_proxy_f1,True,0.0
+ETH-USD:operating_target:0.1:alpha_block_design,True,0.0
+ETH-USD:operating_target:0.1:threshold,True,1.1102230246251565e-16
+ETH-USD:operating_target:0.1:k_index,True,0.0
+ETH-USD:operating_target:0.1:cal_blocks,True,0.0
+ETH-USD:operating_target:0.1:test_blocks,True,0.0
+ETH-USD:operating_target:0.1:alarm_blocks,True,0.0
+ETH-USD:operating_target:0.1:block_exceedance_rate,True,0.0
+ETH-USD:operating_target:0.1:block_rate_lo,True,1.1102230246251565e-16
+ETH-USD:operating_target:0.1:block_rate_hi,True,1.1102230246251565e-16
+ETH-USD:operating_target:0.1:daily_exceedance_rate,True,0.0
+ETH-USD:operating_target:0.1:stress_event_blocks,True,0.0
+ETH-USD:operating_target:0.1:stress_event_prevalence,True,0.0
+ETH-USD:operating_target:0.1:stress_hit_blocks,True,0.0
+ETH-USD:operating_target:0.1:stress_proxy_precision,True,0.0
+ETH-USD:operating_target:0.1:stress_proxy_recall,True,0.0
+ETH-USD:operating_target:0.1:stress_proxy_f1,True,0.0
+ETH-USD:pearson:Training,True,8.881784197001252e-16
+ETH-USD:spearman:Training,True,1.1102230246251565e-16
+ETH-USD:pearson:Test,True,3.3306690738754696e-16
+ETH-USD:spearman:Test,True,0.0
+"ETH-USD:design:(15, 5, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 5, 0.15):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 5, 0.15):k_index",True,0.0
+"ETH-USD:design:(15, 5, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 5, 0.15):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(15, 5, 0.15):block_rate_hi",True,0.0
+"ETH-USD:design:(15, 5, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 5, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 5, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 5, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 5, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 7, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 7, 0.15):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 7, 0.15):k_index",True,0.0
+"ETH-USD:design:(15, 7, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 7, 0.15):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(15, 7, 0.15):block_rate_hi",True,0.0
+"ETH-USD:design:(15, 7, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 7, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 7, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 7, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 7, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 10, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 10, 0.15):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 10, 0.15):k_index",True,0.0
+"ETH-USD:design:(15, 10, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 10, 0.15):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(15, 10, 0.15):block_rate_hi",True,2.220446049250313e-16
+"ETH-USD:design:(15, 10, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 10, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 10, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 10, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 10, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 5, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 5, 0.2):threshold",True,0.0
+"ETH-USD:design:(15, 5, 0.2):k_index",True,0.0
+"ETH-USD:design:(15, 5, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 5, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"ETH-USD:design:(15, 5, 0.2):block_rate_hi",True,5.551115123125783e-17
+"ETH-USD:design:(15, 5, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 5, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 5, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 5, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 5, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 7, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 7, 0.2):threshold",True,0.0
+"ETH-USD:design:(15, 7, 0.2):k_index",True,0.0
+"ETH-USD:design:(15, 7, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 7, 0.2):block_rate_lo",True,0.0
+"ETH-USD:design:(15, 7, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 7, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 7, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 7, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 7, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 7, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 10, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 10, 0.2):threshold",True,0.0
+"ETH-USD:design:(15, 10, 0.2):k_index",True,0.0
+"ETH-USD:design:(15, 10, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 10, 0.2):block_rate_lo",True,0.0
+"ETH-USD:design:(15, 10, 0.2):block_rate_hi",True,0.0
+"ETH-USD:design:(15, 10, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 10, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 10, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 10, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 10, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 5, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 5, 0.25):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 5, 0.25):k_index",True,0.0
+"ETH-USD:design:(15, 5, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 5, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"ETH-USD:design:(15, 5, 0.25):block_rate_hi",True,5.551115123125783e-17
+"ETH-USD:design:(15, 5, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 5, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 5, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 5, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 5, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 5, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 7, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 7, 0.25):threshold",True,0.0
+"ETH-USD:design:(15, 7, 0.25):k_index",True,0.0
+"ETH-USD:design:(15, 7, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 7, 0.25):block_rate_lo",True,0.0
+"ETH-USD:design:(15, 7, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 7, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 7, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 7, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 7, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 7, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 7, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(15, 10, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(15, 10, 0.25):threshold",True,0.0
+"ETH-USD:design:(15, 10, 0.25):k_index",True,0.0
+"ETH-USD:design:(15, 10, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 10, 0.25):block_rate_lo",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(15, 10, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(15, 10, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(15, 10, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(15, 10, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(15, 10, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(15, 10, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 5, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 5, 0.15):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 5, 0.15):k_index",True,0.0
+"ETH-USD:design:(30, 5, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 5, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 5, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 5, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 5, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 5, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 5, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 5, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 7, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 7, 0.15):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 7, 0.15):k_index",True,0.0
+"ETH-USD:design:(30, 7, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 7, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 7, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 7, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 7, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 7, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 7, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 10, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 10, 0.15):threshold",True,0.0
+"ETH-USD:design:(30, 10, 0.15):k_index",True,0.0
+"ETH-USD:design:(30, 10, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 10, 0.15):block_rate_lo",True,0.0
+"ETH-USD:design:(30, 10, 0.15):block_rate_hi",True,0.0
+"ETH-USD:design:(30, 10, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 10, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 10, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 10, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 10, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 5, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 5, 0.2):threshold",True,0.0
+"ETH-USD:design:(30, 5, 0.2):k_index",True,0.0
+"ETH-USD:design:(30, 5, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 5, 0.2):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(30, 5, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 5, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 5, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 5, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 5, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 5, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 7, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 7, 0.2):threshold",True,0.0
+"ETH-USD:design:(30, 7, 0.2):k_index",True,0.0
+"ETH-USD:design:(30, 7, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 7, 0.2):block_rate_lo",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 7, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 7, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 7, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 7, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 7, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 7, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 10, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 10, 0.2):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 10, 0.2):k_index",True,0.0
+"ETH-USD:design:(30, 10, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 10, 0.2):block_rate_lo",True,0.0
+"ETH-USD:design:(30, 10, 0.2):block_rate_hi",True,0.0
+"ETH-USD:design:(30, 10, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 10, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 10, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 10, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 10, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 5, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 5, 0.25):threshold",True,0.0
+"ETH-USD:design:(30, 5, 0.25):k_index",True,0.0
+"ETH-USD:design:(30, 5, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 5, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"ETH-USD:design:(30, 5, 0.25):block_rate_hi",True,0.0
+"ETH-USD:design:(30, 5, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 5, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 5, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 5, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 5, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 5, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 7, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 7, 0.25):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 7, 0.25):k_index",True,0.0
+"ETH-USD:design:(30, 7, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 7, 0.25):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(30, 7, 0.25):block_rate_hi",True,5.551115123125783e-17
+"ETH-USD:design:(30, 7, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 7, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 7, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 7, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 7, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 7, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(30, 10, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(30, 10, 0.25):threshold",True,0.0
+"ETH-USD:design:(30, 10, 0.25):k_index",True,0.0
+"ETH-USD:design:(30, 10, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 10, 0.25):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(30, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(30, 10, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(30, 10, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(30, 10, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(30, 10, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(30, 10, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(30, 10, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 5, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 5, 0.15):threshold",True,0.0
+"ETH-USD:design:(60, 5, 0.15):k_index",True,0.0
+"ETH-USD:design:(60, 5, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 5, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 5, 0.15):block_rate_hi",True,2.220446049250313e-16
+"ETH-USD:design:(60, 5, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 5, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 5, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 5, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 5, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 7, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 7, 0.15):threshold",True,0.0
+"ETH-USD:design:(60, 7, 0.15):k_index",True,0.0
+"ETH-USD:design:(60, 7, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 7, 0.15):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(60, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 7, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 7, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 7, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 7, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 7, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 10, 0.15):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 10, 0.15):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 10, 0.15):k_index",True,0.0
+"ETH-USD:design:(60, 10, 0.15):cal_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.15):test_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.15):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.15):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 10, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 10, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 10, 0.15):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 10, 0.15):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.15):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 10, 0.15):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.15):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 10, 0.15):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 10, 0.15):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 5, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 5, 0.2):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 5, 0.2):k_index",True,0.0
+"ETH-USD:design:(60, 5, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 5, 0.2):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(60, 5, 0.2):block_rate_hi",True,5.551115123125783e-17
+"ETH-USD:design:(60, 5, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 5, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 5, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 5, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 5, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 7, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 7, 0.2):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 7, 0.2):k_index",True,0.0
+"ETH-USD:design:(60, 7, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 7, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"ETH-USD:design:(60, 7, 0.2):block_rate_hi",True,5.551115123125783e-17
+"ETH-USD:design:(60, 7, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 7, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 7, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 7, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 7, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 10, 0.2):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 10, 0.2):threshold",True,1.6653345369377348e-16
+"ETH-USD:design:(60, 10, 0.2):k_index",True,0.0
+"ETH-USD:design:(60, 10, 0.2):cal_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.2):test_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.2):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.2):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 10, 0.2):block_rate_lo",True,0.0
+"ETH-USD:design:(60, 10, 0.2):block_rate_hi",True,0.0
+"ETH-USD:design:(60, 10, 0.2):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 10, 0.2):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.2):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 10, 0.2):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.2):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 10, 0.2):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 10, 0.2):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 5, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 5, 0.25):threshold",True,0.0
+"ETH-USD:design:(60, 5, 0.25):k_index",True,0.0
+"ETH-USD:design:(60, 5, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 5, 0.25):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(60, 5, 0.25):block_rate_hi",True,5.551115123125783e-17
+"ETH-USD:design:(60, 5, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 5, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 5, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 5, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 5, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 5, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 7, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 7, 0.25):threshold",True,1.1102230246251565e-16
+"ETH-USD:design:(60, 7, 0.25):k_index",True,0.0
+"ETH-USD:design:(60, 7, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 7, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"ETH-USD:design:(60, 7, 0.25):block_rate_hi",True,5.551115123125783e-17
+"ETH-USD:design:(60, 7, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 7, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 7, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 7, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 7, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 7, 0.25):stress_proxy_f1",True,0.0
+"ETH-USD:design:(60, 10, 0.25):alpha_block_design",True,0.0
+"ETH-USD:design:(60, 10, 0.25):threshold",True,0.0
+"ETH-USD:design:(60, 10, 0.25):k_index",True,0.0
+"ETH-USD:design:(60, 10, 0.25):cal_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.25):test_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.25):alarm_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.25):block_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 10, 0.25):block_rate_lo",True,5.551115123125783e-17
+"ETH-USD:design:(60, 10, 0.25):block_rate_hi",True,0.0
+"ETH-USD:design:(60, 10, 0.25):daily_exceedance_rate",True,0.0
+"ETH-USD:design:(60, 10, 0.25):stress_event_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.25):stress_event_prevalence",True,0.0
+"ETH-USD:design:(60, 10, 0.25):stress_hit_blocks",True,0.0
+"ETH-USD:design:(60, 10, 0.25):stress_proxy_precision",True,0.0
+"ETH-USD:design:(60, 10, 0.25):stress_proxy_recall",True,0.0
+"ETH-USD:design:(60, 10, 0.25):stress_proxy_f1",True,0.0
+XRP-USD:frozen_md5,True,
+XRP-USD:returns,True,1.1102230246251565e-16
+XRP-USD:split_lengths,True,0.0
+XRP-USD:curvature_identity,True,9.627715291671279e-17
+XRP-USD:reference_block_flags,True,0.0
+XRP-USD:reference_threshold,True,0.0
+XRP-USD:reference_peak_dates,True,
+XRP-USD:CIRD:alpha_block_design,True,0.0
+XRP-USD:CIRD:threshold,True,2.220446049250313e-16
+XRP-USD:CIRD:k_index,True,0.0
+XRP-USD:CIRD:cal_blocks,True,0.0
+XRP-USD:CIRD:test_blocks,True,0.0
+XRP-USD:CIRD:alarm_blocks,True,0.0
+XRP-USD:CIRD:block_exceedance_rate,True,0.0
+XRP-USD:CIRD:block_rate_lo,True,1.1102230246251565e-16
+XRP-USD:CIRD:block_rate_hi,True,1.1102230246251565e-16
+XRP-USD:CIRD:daily_exceedance_rate,True,0.0
+XRP-USD:CIRD:stress_event_blocks,True,0.0
+XRP-USD:CIRD:stress_event_prevalence,True,0.0
+XRP-USD:CIRD:stress_hit_blocks,True,0.0
+XRP-USD:CIRD:stress_proxy_precision,True,0.0
+XRP-USD:CIRD:stress_proxy_recall,True,0.0
+XRP-USD:CIRD:stress_proxy_f1,True,0.0
+XRP-USD:CIRD:dated_alarm_set,True,0.0
+XRP-USD:CIRD:dated_block_scores,True,4.440892098500626e-16
+XRP-USD:Terminal_FRV:alpha_block_design,True,0.0
+XRP-USD:Terminal_FRV:threshold,True,0.0
+XRP-USD:Terminal_FRV:k_index,True,0.0
+XRP-USD:Terminal_FRV:cal_blocks,True,0.0
+XRP-USD:Terminal_FRV:test_blocks,True,0.0
+XRP-USD:Terminal_FRV:alarm_blocks,True,0.0
+XRP-USD:Terminal_FRV:block_exceedance_rate,True,0.0
+XRP-USD:Terminal_FRV:block_rate_lo,True,4.163336342344337e-17
+XRP-USD:Terminal_FRV:block_rate_hi,True,0.0
+XRP-USD:Terminal_FRV:daily_exceedance_rate,True,0.0
+XRP-USD:Terminal_FRV:stress_event_blocks,True,0.0
+XRP-USD:Terminal_FRV:stress_event_prevalence,True,0.0
+XRP-USD:Terminal_FRV:stress_hit_blocks,True,0.0
+XRP-USD:Terminal_FRV:stress_proxy_precision,True,0.0
+XRP-USD:Terminal_FRV:stress_proxy_recall,True,0.0
+XRP-USD:Terminal_FRV:stress_proxy_f1,True,0.0
+XRP-USD:Terminal_FRV:dated_alarm_set,True,0.0
+XRP-USD:Terminal_FRV:dated_block_scores,True,7.216449660063518e-16
+XRP-USD:Integrated_upper_tail_rank:alpha_block_design,True,0.0
+XRP-USD:Integrated_upper_tail_rank:threshold,True,0.0
+XRP-USD:Integrated_upper_tail_rank:k_index,True,0.0
+XRP-USD:Integrated_upper_tail_rank:cal_blocks,True,0.0
+XRP-USD:Integrated_upper_tail_rank:test_blocks,True,0.0
+XRP-USD:Integrated_upper_tail_rank:alarm_blocks,True,0.0
+XRP-USD:Integrated_upper_tail_rank:block_exceedance_rate,True,0.0
+XRP-USD:Integrated_upper_tail_rank:block_rate_lo,True,8.326672684688674e-17
+XRP-USD:Integrated_upper_tail_rank:block_rate_hi,True,5.551115123125783e-17
+XRP-USD:Integrated_upper_tail_rank:daily_exceedance_rate,True,0.0
+XRP-USD:Integrated_upper_tail_rank:stress_event_blocks,True,0.0
+XRP-USD:Integrated_upper_tail_rank:stress_event_prevalence,True,0.0
+XRP-USD:Integrated_upper_tail_rank:stress_hit_blocks,True,0.0
+XRP-USD:Integrated_upper_tail_rank:stress_proxy_precision,True,0.0
+XRP-USD:Integrated_upper_tail_rank:stress_proxy_recall,True,0.0
+XRP-USD:Integrated_upper_tail_rank:stress_proxy_f1,True,0.0
+XRP-USD:Integrated_upper_tail_rank:dated_alarm_set,True,0.0
+XRP-USD:Integrated_upper_tail_rank:dated_block_scores,True,2.220446049250313e-16
+XRP-USD:HAR_forward_residual:alpha_block_design,True,0.0
+XRP-USD:HAR_forward_residual:threshold,True,1.4432899320127035e-15
+XRP-USD:HAR_forward_residual:k_index,True,0.0
+XRP-USD:HAR_forward_residual:cal_blocks,True,0.0
+XRP-USD:HAR_forward_residual:test_blocks,True,0.0
+XRP-USD:HAR_forward_residual:alarm_blocks,True,0.0
+XRP-USD:HAR_forward_residual:block_exceedance_rate,True,0.0
+XRP-USD:HAR_forward_residual:block_rate_lo,True,2.7755575615628914e-17
+XRP-USD:HAR_forward_residual:block_rate_hi,True,0.0
+XRP-USD:HAR_forward_residual:daily_exceedance_rate,True,0.0
+XRP-USD:HAR_forward_residual:stress_event_blocks,True,0.0
+XRP-USD:HAR_forward_residual:stress_event_prevalence,True,0.0
+XRP-USD:HAR_forward_residual:stress_hit_blocks,True,0.0
+XRP-USD:HAR_forward_residual:stress_proxy_precision,True,0.0
+XRP-USD:HAR_forward_residual:stress_proxy_recall,True,0.0
+XRP-USD:HAR_forward_residual:stress_proxy_f1,True,0.0
+XRP-USD:HAR_forward_residual:dated_alarm_set,True,0.0
+XRP-USD:HAR_forward_residual:dated_block_scores,True,1.9195756095768957e-13
+XRP-USD:ablation:level_only:alpha_block_design,True,0.0
+XRP-USD:ablation:level_only:threshold,True,2.220446049250313e-16
+XRP-USD:ablation:level_only:k_index,True,0.0
+XRP-USD:ablation:level_only:cal_blocks,True,0.0
+XRP-USD:ablation:level_only:test_blocks,True,0.0
+XRP-USD:ablation:level_only:alarm_blocks,True,0.0
+XRP-USD:ablation:level_only:block_exceedance_rate,True,0.0
+XRP-USD:ablation:level_only:block_rate_lo,True,4.163336342344337e-17
+XRP-USD:ablation:level_only:block_rate_hi,True,0.0
+XRP-USD:ablation:level_only:daily_exceedance_rate,True,0.0
+XRP-USD:ablation:level_only:stress_event_blocks,True,0.0
+XRP-USD:ablation:level_only:stress_event_prevalence,True,0.0
+XRP-USD:ablation:level_only:stress_hit_blocks,True,0.0
+XRP-USD:ablation:level_only:stress_proxy_precision,True,0.0
+XRP-USD:ablation:level_only:stress_proxy_recall,True,0.0
+XRP-USD:ablation:level_only:stress_proxy_f1,True,0.0
+XRP-USD:level_terminal_alarm_equivalence,True,0.0
+XRP-USD:ablation:full_CIRD:alpha_block_design,True,0.0
+XRP-USD:ablation:full_CIRD:threshold,True,2.220446049250313e-16
+XRP-USD:ablation:full_CIRD:k_index,True,0.0
+XRP-USD:ablation:full_CIRD:cal_blocks,True,0.0
+XRP-USD:ablation:full_CIRD:test_blocks,True,0.0
+XRP-USD:ablation:full_CIRD:alarm_blocks,True,0.0
+XRP-USD:ablation:full_CIRD:block_exceedance_rate,True,0.0
+XRP-USD:ablation:full_CIRD:block_rate_lo,True,1.1102230246251565e-16
+XRP-USD:ablation:full_CIRD:block_rate_hi,True,1.1102230246251565e-16
+XRP-USD:ablation:full_CIRD:daily_exceedance_rate,True,0.0
+XRP-USD:ablation:full_CIRD:stress_event_blocks,True,0.0
+XRP-USD:ablation:full_CIRD:stress_event_prevalence,True,0.0
+XRP-USD:ablation:full_CIRD:stress_hit_blocks,True,0.0
+XRP-USD:ablation:full_CIRD:stress_proxy_precision,True,0.0
+XRP-USD:ablation:full_CIRD:stress_proxy_recall,True,0.0
+XRP-USD:ablation:full_CIRD:stress_proxy_f1,True,0.0
+XRP-USD:ablation:curvature_only:alpha_block_design,True,0.0
+XRP-USD:ablation:curvature_only:threshold,True,0.0
+XRP-USD:ablation:curvature_only:k_index,True,0.0
+XRP-USD:ablation:curvature_only:cal_blocks,True,0.0
+XRP-USD:ablation:curvature_only:test_blocks,True,0.0
+XRP-USD:ablation:curvature_only:alarm_blocks,True,0.0
+XRP-USD:ablation:curvature_only:block_exceedance_rate,True,0.0
+XRP-USD:ablation:curvature_only:block_rate_lo,True,5.551115123125783e-17
+XRP-USD:ablation:curvature_only:block_rate_hi,True,5.551115123125783e-17
+XRP-USD:ablation:curvature_only:daily_exceedance_rate,True,0.0
+XRP-USD:ablation:curvature_only:stress_event_blocks,True,0.0
+XRP-USD:ablation:curvature_only:stress_event_prevalence,True,0.0
+XRP-USD:ablation:curvature_only:stress_hit_blocks,True,0.0
+XRP-USD:ablation:curvature_only:stress_proxy_precision,True,0.0
+XRP-USD:ablation:curvature_only:stress_proxy_recall,True,0.0
+XRP-USD:ablation:curvature_only:stress_proxy_f1,True,0.0
+XRP-USD:weight:level_heavy_1:alpha_block_design,True,0.0
+XRP-USD:weight:level_heavy_1:threshold,True,2.220446049250313e-16
+XRP-USD:weight:level_heavy_1:k_index,True,0.0
+XRP-USD:weight:level_heavy_1:cal_blocks,True,0.0
+XRP-USD:weight:level_heavy_1:test_blocks,True,0.0
+XRP-USD:weight:level_heavy_1:alarm_blocks,True,0.0
+XRP-USD:weight:level_heavy_1:block_exceedance_rate,True,0.0
+XRP-USD:weight:level_heavy_1:block_rate_lo,True,2.7755575615628914e-17
+XRP-USD:weight:level_heavy_1:block_rate_hi,True,0.0
+XRP-USD:weight:level_heavy_1:daily_exceedance_rate,True,0.0
+XRP-USD:weight:level_heavy_1:stress_event_blocks,True,0.0
+XRP-USD:weight:level_heavy_1:stress_event_prevalence,True,0.0
+XRP-USD:weight:level_heavy_1:stress_hit_blocks,True,0.0
+XRP-USD:weight:level_heavy_1:stress_proxy_precision,True,0.0
+XRP-USD:weight:level_heavy_1:stress_proxy_recall,True,0.0
+XRP-USD:weight:level_heavy_1:stress_proxy_f1,True,0.0
+XRP-USD:Jaccard:level_heavy_1,True,0.0
+XRP-USD:weight:level_heavy_2:alpha_block_design,True,0.0
+XRP-USD:weight:level_heavy_2:threshold,True,0.0
+XRP-USD:weight:level_heavy_2:k_index,True,0.0
+XRP-USD:weight:level_heavy_2:cal_blocks,True,0.0
+XRP-USD:weight:level_heavy_2:test_blocks,True,0.0
+XRP-USD:weight:level_heavy_2:alarm_blocks,True,0.0
+XRP-USD:weight:level_heavy_2:block_exceedance_rate,True,0.0
+XRP-USD:weight:level_heavy_2:block_rate_lo,True,5.551115123125783e-17
+XRP-USD:weight:level_heavy_2:block_rate_hi,True,5.551115123125783e-17
+XRP-USD:weight:level_heavy_2:daily_exceedance_rate,True,0.0
+XRP-USD:weight:level_heavy_2:stress_event_blocks,True,0.0
+XRP-USD:weight:level_heavy_2:stress_event_prevalence,True,0.0
+XRP-USD:weight:level_heavy_2:stress_hit_blocks,True,0.0
+XRP-USD:weight:level_heavy_2:stress_proxy_precision,True,0.0
+XRP-USD:weight:level_heavy_2:stress_proxy_recall,True,0.0
+XRP-USD:weight:level_heavy_2:stress_proxy_f1,True,0.0
+XRP-USD:Jaccard:level_heavy_2,True,0.0
+XRP-USD:weight:equal:alpha_block_design,True,0.0
+XRP-USD:weight:equal:threshold,True,2.220446049250313e-16
+XRP-USD:weight:equal:k_index,True,0.0
+XRP-USD:weight:equal:cal_blocks,True,0.0
+XRP-USD:weight:equal:test_blocks,True,0.0
+XRP-USD:weight:equal:alarm_blocks,True,0.0
+XRP-USD:weight:equal:block_exceedance_rate,True,0.0
+XRP-USD:weight:equal:block_rate_lo,True,1.1102230246251565e-16
+XRP-USD:weight:equal:block_rate_hi,True,1.1102230246251565e-16
+XRP-USD:weight:equal:daily_exceedance_rate,True,0.0
+XRP-USD:weight:equal:stress_event_blocks,True,0.0
+XRP-USD:weight:equal:stress_event_prevalence,True,0.0
+XRP-USD:weight:equal:stress_hit_blocks,True,0.0
+XRP-USD:weight:equal:stress_proxy_precision,True,0.0
+XRP-USD:weight:equal:stress_proxy_recall,True,0.0
+XRP-USD:weight:equal:stress_proxy_f1,True,0.0
+XRP-USD:Jaccard:equal,True,0.0
+XRP-USD:weight:curvature_heavy_1:alpha_block_design,True,0.0
+XRP-USD:weight:curvature_heavy_1:threshold,True,0.0
+XRP-USD:weight:curvature_heavy_1:k_index,True,0.0
+XRP-USD:weight:curvature_heavy_1:cal_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_1:test_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_1:alarm_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_1:block_exceedance_rate,True,0.0
+XRP-USD:weight:curvature_heavy_1:block_rate_lo,True,2.7755575615628914e-17
+XRP-USD:weight:curvature_heavy_1:block_rate_hi,True,0.0
+XRP-USD:weight:curvature_heavy_1:daily_exceedance_rate,True,0.0
+XRP-USD:weight:curvature_heavy_1:stress_event_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_1:stress_event_prevalence,True,0.0
+XRP-USD:weight:curvature_heavy_1:stress_hit_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_1:stress_proxy_precision,True,0.0
+XRP-USD:weight:curvature_heavy_1:stress_proxy_recall,True,0.0
+XRP-USD:weight:curvature_heavy_1:stress_proxy_f1,True,0.0
+XRP-USD:Jaccard:curvature_heavy_1,True,0.0
+XRP-USD:weight:curvature_heavy_2:alpha_block_design,True,0.0
+XRP-USD:weight:curvature_heavy_2:threshold,True,2.220446049250313e-16
+XRP-USD:weight:curvature_heavy_2:k_index,True,0.0
+XRP-USD:weight:curvature_heavy_2:cal_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_2:test_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_2:alarm_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_2:block_exceedance_rate,True,0.0
+XRP-USD:weight:curvature_heavy_2:block_rate_lo,True,5.551115123125783e-17
+XRP-USD:weight:curvature_heavy_2:block_rate_hi,True,5.551115123125783e-17
+XRP-USD:weight:curvature_heavy_2:daily_exceedance_rate,True,0.0
+XRP-USD:weight:curvature_heavy_2:stress_event_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_2:stress_event_prevalence,True,0.0
+XRP-USD:weight:curvature_heavy_2:stress_hit_blocks,True,0.0
+XRP-USD:weight:curvature_heavy_2:stress_proxy_precision,True,0.0
+XRP-USD:weight:curvature_heavy_2:stress_proxy_recall,True,0.0
+XRP-USD:weight:curvature_heavy_2:stress_proxy_f1,True,0.0
+XRP-USD:Jaccard:curvature_heavy_2,True,0.0
+XRP-USD:operating_target:0.01:alpha_block_design,True,0.0
+XRP-USD:operating_target:0.01:threshold,True,0.0
+XRP-USD:operating_target:0.01:k_index,True,0.0
+XRP-USD:operating_target:0.01:cal_blocks,True,0.0
+XRP-USD:operating_target:0.01:test_blocks,True,0.0
+XRP-USD:operating_target:0.01:alarm_blocks,True,0.0
+XRP-USD:operating_target:0.01:block_exceedance_rate,True,0.0
+XRP-USD:operating_target:0.01:block_rate_lo,True,6.938893903907228e-18
+XRP-USD:operating_target:0.01:block_rate_hi,True,0.0
+XRP-USD:operating_target:0.01:daily_exceedance_rate,True,0.0
+XRP-USD:operating_target:0.01:stress_event_blocks,True,0.0
+XRP-USD:operating_target:0.01:stress_event_prevalence,True,0.0
+XRP-USD:operating_target:0.01:stress_hit_blocks,True,0.0
+XRP-USD:operating_target:0.01:stress_proxy_precision,True,0.0
+XRP-USD:operating_target:0.01:stress_proxy_recall,True,0.0
+XRP-USD:operating_target:0.01:stress_proxy_f1,True,0.0
+XRP-USD:operating_target:0.05:alpha_block_design,True,0.0
+XRP-USD:operating_target:0.05:threshold,True,2.220446049250313e-16
+XRP-USD:operating_target:0.05:k_index,True,0.0
+XRP-USD:operating_target:0.05:cal_blocks,True,0.0
+XRP-USD:operating_target:0.05:test_blocks,True,0.0
+XRP-USD:operating_target:0.05:alarm_blocks,True,0.0
+XRP-USD:operating_target:0.05:block_exceedance_rate,True,0.0
+XRP-USD:operating_target:0.05:block_rate_lo,True,1.1102230246251565e-16
+XRP-USD:operating_target:0.05:block_rate_hi,True,1.1102230246251565e-16
+XRP-USD:operating_target:0.05:daily_exceedance_rate,True,0.0
+XRP-USD:operating_target:0.05:stress_event_blocks,True,0.0
+XRP-USD:operating_target:0.05:stress_event_prevalence,True,0.0
+XRP-USD:operating_target:0.05:stress_hit_blocks,True,0.0
+XRP-USD:operating_target:0.05:stress_proxy_precision,True,0.0
+XRP-USD:operating_target:0.05:stress_proxy_recall,True,0.0
+XRP-USD:operating_target:0.05:stress_proxy_f1,True,0.0
+XRP-USD:operating_target:0.1:alpha_block_design,True,0.0
+XRP-USD:operating_target:0.1:threshold,True,1.1102230246251565e-16
+XRP-USD:operating_target:0.1:k_index,True,0.0
+XRP-USD:operating_target:0.1:cal_blocks,True,0.0
+XRP-USD:operating_target:0.1:test_blocks,True,0.0
+XRP-USD:operating_target:0.1:alarm_blocks,True,0.0
+XRP-USD:operating_target:0.1:block_exceedance_rate,True,0.0
+XRP-USD:operating_target:0.1:block_rate_lo,True,0.0
+XRP-USD:operating_target:0.1:block_rate_hi,True,0.0
+XRP-USD:operating_target:0.1:daily_exceedance_rate,True,0.0
+XRP-USD:operating_target:0.1:stress_event_blocks,True,0.0
+XRP-USD:operating_target:0.1:stress_event_prevalence,True,0.0
+XRP-USD:operating_target:0.1:stress_hit_blocks,True,0.0
+XRP-USD:operating_target:0.1:stress_proxy_precision,True,0.0
+XRP-USD:operating_target:0.1:stress_proxy_recall,True,0.0
+XRP-USD:operating_target:0.1:stress_proxy_f1,True,0.0
+XRP-USD:pearson:Training,True,2.220446049250313e-16
+XRP-USD:spearman:Training,True,2.220446049250313e-16
+XRP-USD:pearson:Test,True,0.0
+XRP-USD:spearman:Test,True,0.0
+"XRP-USD:design:(15, 5, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 5, 0.15):threshold",True,0.0
+"XRP-USD:design:(15, 5, 0.15):k_index",True,0.0
+"XRP-USD:design:(15, 5, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 5, 0.15):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(15, 5, 0.15):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(15, 5, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 5, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 5, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 5, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 5, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 7, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 7, 0.15):threshold",True,0.0
+"XRP-USD:design:(15, 7, 0.15):k_index",True,0.0
+"XRP-USD:design:(15, 7, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 7, 0.15):block_rate_lo",True,0.0
+"XRP-USD:design:(15, 7, 0.15):block_rate_hi",True,0.0
+"XRP-USD:design:(15, 7, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 7, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 7, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 7, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 7, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 10, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 10, 0.15):threshold",True,0.0
+"XRP-USD:design:(15, 10, 0.15):k_index",True,0.0
+"XRP-USD:design:(15, 10, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 10, 0.15):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(15, 10, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(15, 10, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 10, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 10, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 10, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 10, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 5, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 5, 0.2):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(15, 5, 0.2):k_index",True,0.0
+"XRP-USD:design:(15, 5, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 5, 0.2):block_rate_lo",True,0.0
+"XRP-USD:design:(15, 5, 0.2):block_rate_hi",True,0.0
+"XRP-USD:design:(15, 5, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 5, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 5, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 5, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 5, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 7, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 7, 0.2):threshold",True,2.220446049250313e-16
+"XRP-USD:design:(15, 7, 0.2):k_index",True,0.0
+"XRP-USD:design:(15, 7, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 7, 0.2):block_rate_lo",True,0.0
+"XRP-USD:design:(15, 7, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(15, 7, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 7, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 7, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 7, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 7, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 10, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 10, 0.2):threshold",True,0.0
+"XRP-USD:design:(15, 10, 0.2):k_index",True,0.0
+"XRP-USD:design:(15, 10, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 10, 0.2):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(15, 10, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(15, 10, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 10, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 10, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 10, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 10, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 5, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 5, 0.25):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(15, 5, 0.25):k_index",True,0.0
+"XRP-USD:design:(15, 5, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 5, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"XRP-USD:design:(15, 5, 0.25):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(15, 5, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 5, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 5, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 5, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 5, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 5, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 7, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 7, 0.25):threshold",True,0.0
+"XRP-USD:design:(15, 7, 0.25):k_index",True,0.0
+"XRP-USD:design:(15, 7, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 7, 0.25):block_rate_lo",True,0.0
+"XRP-USD:design:(15, 7, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(15, 7, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 7, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 7, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 7, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 7, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 7, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(15, 10, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(15, 10, 0.25):threshold",True,0.0
+"XRP-USD:design:(15, 10, 0.25):k_index",True,0.0
+"XRP-USD:design:(15, 10, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 10, 0.25):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(15, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(15, 10, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(15, 10, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(15, 10, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(15, 10, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(15, 10, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(15, 10, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 5, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 5, 0.15):threshold",True,0.0
+"XRP-USD:design:(30, 5, 0.15):k_index",True,0.0
+"XRP-USD:design:(30, 5, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 5, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 5, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 5, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 5, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 5, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 5, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 5, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 7, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 7, 0.15):threshold",True,0.0
+"XRP-USD:design:(30, 7, 0.15):k_index",True,0.0
+"XRP-USD:design:(30, 7, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 7, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 7, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 7, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 7, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 7, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 7, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 10, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 10, 0.15):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 10, 0.15):k_index",True,0.0
+"XRP-USD:design:(30, 10, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 10, 0.15):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(30, 10, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 10, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 10, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 10, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 10, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 10, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 5, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 5, 0.2):threshold",True,2.220446049250313e-16
+"XRP-USD:design:(30, 5, 0.2):k_index",True,0.0
+"XRP-USD:design:(30, 5, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 5, 0.2):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(30, 5, 0.2):block_rate_hi",True,0.0
+"XRP-USD:design:(30, 5, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 5, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 5, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 5, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 5, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 7, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 7, 0.2):threshold",True,2.220446049250313e-16
+"XRP-USD:design:(30, 7, 0.2):k_index",True,0.0
+"XRP-USD:design:(30, 7, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 7, 0.2):block_rate_lo",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 7, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 7, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 7, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 7, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 7, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 7, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 10, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 10, 0.2):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 10, 0.2):k_index",True,0.0
+"XRP-USD:design:(30, 10, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 10, 0.2):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(30, 10, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 10, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 10, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 10, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 10, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 10, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 5, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 5, 0.25):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 5, 0.25):k_index",True,0.0
+"XRP-USD:design:(30, 5, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 5, 0.25):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(30, 5, 0.25):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(30, 5, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 5, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 5, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 5, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 5, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 5, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 7, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 7, 0.25):threshold",True,0.0
+"XRP-USD:design:(30, 7, 0.25):k_index",True,0.0
+"XRP-USD:design:(30, 7, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 7, 0.25):block_rate_lo",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 7, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 7, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 7, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 7, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 7, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 7, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 7, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(30, 10, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(30, 10, 0.25):threshold",True,0.0
+"XRP-USD:design:(30, 10, 0.25):k_index",True,0.0
+"XRP-USD:design:(30, 10, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 10, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"XRP-USD:design:(30, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(30, 10, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(30, 10, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(30, 10, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(30, 10, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(30, 10, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(30, 10, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 5, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 5, 0.15):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(60, 5, 0.15):k_index",True,0.0
+"XRP-USD:design:(60, 5, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 5, 0.15):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(60, 5, 0.15):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(60, 5, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 5, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 5, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 5, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 5, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 7, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 7, 0.15):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(60, 7, 0.15):k_index",True,0.0
+"XRP-USD:design:(60, 7, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 7, 0.15):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(60, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(60, 7, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 7, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 7, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 7, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 7, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 10, 0.15):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 10, 0.15):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(60, 10, 0.15):k_index",True,0.0
+"XRP-USD:design:(60, 10, 0.15):cal_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.15):test_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.15):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.15):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 10, 0.15):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(60, 10, 0.15):block_rate_hi",True,0.0
+"XRP-USD:design:(60, 10, 0.15):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 10, 0.15):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.15):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 10, 0.15):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.15):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 10, 0.15):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 10, 0.15):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 5, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 5, 0.2):threshold",True,2.220446049250313e-16
+"XRP-USD:design:(60, 5, 0.2):k_index",True,0.0
+"XRP-USD:design:(60, 5, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 5, 0.2):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(60, 5, 0.2):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(60, 5, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 5, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 5, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 5, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 5, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 7, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 7, 0.2):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(60, 7, 0.2):k_index",True,0.0
+"XRP-USD:design:(60, 7, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 7, 0.2):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(60, 7, 0.2):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(60, 7, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 7, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 7, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 7, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 7, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 10, 0.2):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 10, 0.2):threshold",True,0.0
+"XRP-USD:design:(60, 10, 0.2):k_index",True,0.0
+"XRP-USD:design:(60, 10, 0.2):cal_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.2):test_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.2):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.2):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 10, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"XRP-USD:design:(60, 10, 0.2):block_rate_hi",True,0.0
+"XRP-USD:design:(60, 10, 0.2):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 10, 0.2):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.2):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 10, 0.2):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.2):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 10, 0.2):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 10, 0.2):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 5, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 5, 0.25):threshold",True,0.0
+"XRP-USD:design:(60, 5, 0.25):k_index",True,0.0
+"XRP-USD:design:(60, 5, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 5, 0.25):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(60, 5, 0.25):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(60, 5, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 5, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 5, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 5, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 5, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 5, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 7, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 7, 0.25):threshold",True,1.1102230246251565e-16
+"XRP-USD:design:(60, 7, 0.25):k_index",True,0.0
+"XRP-USD:design:(60, 7, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 7, 0.25):block_rate_lo",True,5.551115123125783e-17
+"XRP-USD:design:(60, 7, 0.25):block_rate_hi",True,5.551115123125783e-17
+"XRP-USD:design:(60, 7, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 7, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 7, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 7, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 7, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 7, 0.25):stress_proxy_f1",True,0.0
+"XRP-USD:design:(60, 10, 0.25):alpha_block_design",True,0.0
+"XRP-USD:design:(60, 10, 0.25):threshold",True,0.0
+"XRP-USD:design:(60, 10, 0.25):k_index",True,0.0
+"XRP-USD:design:(60, 10, 0.25):cal_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.25):test_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.25):alarm_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.25):block_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 10, 0.25):block_rate_lo",True,0.0
+"XRP-USD:design:(60, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"XRP-USD:design:(60, 10, 0.25):daily_exceedance_rate",True,0.0
+"XRP-USD:design:(60, 10, 0.25):stress_event_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.25):stress_event_prevalence",True,0.0
+"XRP-USD:design:(60, 10, 0.25):stress_hit_blocks",True,0.0
+"XRP-USD:design:(60, 10, 0.25):stress_proxy_precision",True,0.0
+"XRP-USD:design:(60, 10, 0.25):stress_proxy_recall",True,0.0
+"XRP-USD:design:(60, 10, 0.25):stress_proxy_f1",True,0.0
+LTC-USD:frozen_md5,True,
+LTC-USD:returns,True,0.0
+LTC-USD:split_lengths,True,0.0
+LTC-USD:curvature_identity,True,5.551115123125783e-17
+LTC-USD:reference_block_flags,True,0.0
+LTC-USD:reference_threshold,True,0.0
+LTC-USD:reference_peak_dates,True,
+LTC-USD:CIRD:alpha_block_design,True,0.0
+LTC-USD:CIRD:threshold,True,1.1102230246251565e-16
+LTC-USD:CIRD:k_index,True,0.0
+LTC-USD:CIRD:cal_blocks,True,0.0
+LTC-USD:CIRD:test_blocks,True,0.0
+LTC-USD:CIRD:alarm_blocks,True,0.0
+LTC-USD:CIRD:block_exceedance_rate,True,0.0
+LTC-USD:CIRD:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:CIRD:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:CIRD:daily_exceedance_rate,True,0.0
+LTC-USD:CIRD:stress_event_blocks,True,0.0
+LTC-USD:CIRD:stress_event_prevalence,True,0.0
+LTC-USD:CIRD:stress_hit_blocks,True,0.0
+LTC-USD:CIRD:stress_proxy_precision,True,0.0
+LTC-USD:CIRD:stress_proxy_recall,True,0.0
+LTC-USD:CIRD:stress_proxy_f1,True,0.0
+LTC-USD:CIRD:dated_alarm_set,True,0.0
+LTC-USD:CIRD:dated_block_scores,True,6.106226635438361e-16
+LTC-USD:Terminal_FRV:alpha_block_design,True,0.0
+LTC-USD:Terminal_FRV:threshold,True,9.43689570931383e-16
+LTC-USD:Terminal_FRV:k_index,True,0.0
+LTC-USD:Terminal_FRV:cal_blocks,True,0.0
+LTC-USD:Terminal_FRV:test_blocks,True,0.0
+LTC-USD:Terminal_FRV:alarm_blocks,True,0.0
+LTC-USD:Terminal_FRV:block_exceedance_rate,True,0.0
+LTC-USD:Terminal_FRV:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:Terminal_FRV:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:Terminal_FRV:daily_exceedance_rate,True,0.0
+LTC-USD:Terminal_FRV:stress_event_blocks,True,0.0
+LTC-USD:Terminal_FRV:stress_event_prevalence,True,0.0
+LTC-USD:Terminal_FRV:stress_hit_blocks,True,0.0
+LTC-USD:Terminal_FRV:stress_proxy_precision,True,0.0
+LTC-USD:Terminal_FRV:stress_proxy_recall,True,0.0
+LTC-USD:Terminal_FRV:stress_proxy_f1,True,0.0
+LTC-USD:Terminal_FRV:dated_alarm_set,True,0.0
+LTC-USD:Terminal_FRV:dated_block_scores,True,4.440892098500626e-16
+LTC-USD:Integrated_upper_tail_rank:alpha_block_design,True,0.0
+LTC-USD:Integrated_upper_tail_rank:threshold,True,0.0
+LTC-USD:Integrated_upper_tail_rank:k_index,True,0.0
+LTC-USD:Integrated_upper_tail_rank:cal_blocks,True,0.0
+LTC-USD:Integrated_upper_tail_rank:test_blocks,True,0.0
+LTC-USD:Integrated_upper_tail_rank:alarm_blocks,True,0.0
+LTC-USD:Integrated_upper_tail_rank:block_exceedance_rate,True,0.0
+LTC-USD:Integrated_upper_tail_rank:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:Integrated_upper_tail_rank:block_rate_hi,True,1.1102230246251565e-16
+LTC-USD:Integrated_upper_tail_rank:daily_exceedance_rate,True,0.0
+LTC-USD:Integrated_upper_tail_rank:stress_event_blocks,True,0.0
+LTC-USD:Integrated_upper_tail_rank:stress_event_prevalence,True,0.0
+LTC-USD:Integrated_upper_tail_rank:stress_hit_blocks,True,0.0
+LTC-USD:Integrated_upper_tail_rank:stress_proxy_precision,True,0.0
+LTC-USD:Integrated_upper_tail_rank:stress_proxy_recall,True,0.0
+LTC-USD:Integrated_upper_tail_rank:stress_proxy_f1,True,0.0
+LTC-USD:Integrated_upper_tail_rank:dated_alarm_set,True,0.0
+LTC-USD:Integrated_upper_tail_rank:dated_block_scores,True,1.1102230246251565e-16
+LTC-USD:HAR_forward_residual:alpha_block_design,True,0.0
+LTC-USD:HAR_forward_residual:threshold,True,1.1657341758564144e-15
+LTC-USD:HAR_forward_residual:k_index,True,0.0
+LTC-USD:HAR_forward_residual:cal_blocks,True,0.0
+LTC-USD:HAR_forward_residual:test_blocks,True,0.0
+LTC-USD:HAR_forward_residual:alarm_blocks,True,0.0
+LTC-USD:HAR_forward_residual:block_exceedance_rate,True,0.0
+LTC-USD:HAR_forward_residual:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:HAR_forward_residual:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:HAR_forward_residual:daily_exceedance_rate,True,0.0
+LTC-USD:HAR_forward_residual:stress_event_blocks,True,0.0
+LTC-USD:HAR_forward_residual:stress_event_prevalence,True,0.0
+LTC-USD:HAR_forward_residual:stress_hit_blocks,True,0.0
+LTC-USD:HAR_forward_residual:stress_proxy_precision,True,0.0
+LTC-USD:HAR_forward_residual:stress_proxy_recall,True,0.0
+LTC-USD:HAR_forward_residual:stress_proxy_f1,True,0.0
+LTC-USD:HAR_forward_residual:dated_alarm_set,True,0.0
+LTC-USD:HAR_forward_residual:dated_block_scores,True,1.6653345369377348e-15
+LTC-USD:ablation:level_only:alpha_block_design,True,0.0
+LTC-USD:ablation:level_only:threshold,True,3.3306690738754696e-16
+LTC-USD:ablation:level_only:k_index,True,0.0
+LTC-USD:ablation:level_only:cal_blocks,True,0.0
+LTC-USD:ablation:level_only:test_blocks,True,0.0
+LTC-USD:ablation:level_only:alarm_blocks,True,0.0
+LTC-USD:ablation:level_only:block_exceedance_rate,True,0.0
+LTC-USD:ablation:level_only:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:ablation:level_only:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:ablation:level_only:daily_exceedance_rate,True,0.0
+LTC-USD:ablation:level_only:stress_event_blocks,True,0.0
+LTC-USD:ablation:level_only:stress_event_prevalence,True,0.0
+LTC-USD:ablation:level_only:stress_hit_blocks,True,0.0
+LTC-USD:ablation:level_only:stress_proxy_precision,True,0.0
+LTC-USD:ablation:level_only:stress_proxy_recall,True,0.0
+LTC-USD:ablation:level_only:stress_proxy_f1,True,0.0
+LTC-USD:level_terminal_alarm_equivalence,True,0.0
+LTC-USD:ablation:full_CIRD:alpha_block_design,True,0.0
+LTC-USD:ablation:full_CIRD:threshold,True,1.1102230246251565e-16
+LTC-USD:ablation:full_CIRD:k_index,True,0.0
+LTC-USD:ablation:full_CIRD:cal_blocks,True,0.0
+LTC-USD:ablation:full_CIRD:test_blocks,True,0.0
+LTC-USD:ablation:full_CIRD:alarm_blocks,True,0.0
+LTC-USD:ablation:full_CIRD:block_exceedance_rate,True,0.0
+LTC-USD:ablation:full_CIRD:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:ablation:full_CIRD:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:ablation:full_CIRD:daily_exceedance_rate,True,0.0
+LTC-USD:ablation:full_CIRD:stress_event_blocks,True,0.0
+LTC-USD:ablation:full_CIRD:stress_event_prevalence,True,0.0
+LTC-USD:ablation:full_CIRD:stress_hit_blocks,True,0.0
+LTC-USD:ablation:full_CIRD:stress_proxy_precision,True,0.0
+LTC-USD:ablation:full_CIRD:stress_proxy_recall,True,0.0
+LTC-USD:ablation:full_CIRD:stress_proxy_f1,True,0.0
+LTC-USD:ablation:curvature_only:alpha_block_design,True,0.0
+LTC-USD:ablation:curvature_only:threshold,True,1.1102230246251565e-16
+LTC-USD:ablation:curvature_only:k_index,True,0.0
+LTC-USD:ablation:curvature_only:cal_blocks,True,0.0
+LTC-USD:ablation:curvature_only:test_blocks,True,0.0
+LTC-USD:ablation:curvature_only:alarm_blocks,True,0.0
+LTC-USD:ablation:curvature_only:block_exceedance_rate,True,0.0
+LTC-USD:ablation:curvature_only:block_rate_lo,True,1.1102230246251565e-16
+LTC-USD:ablation:curvature_only:block_rate_hi,True,1.1102230246251565e-16
+LTC-USD:ablation:curvature_only:daily_exceedance_rate,True,0.0
+LTC-USD:ablation:curvature_only:stress_event_blocks,True,0.0
+LTC-USD:ablation:curvature_only:stress_event_prevalence,True,0.0
+LTC-USD:ablation:curvature_only:stress_hit_blocks,True,0.0
+LTC-USD:ablation:curvature_only:stress_proxy_precision,True,0.0
+LTC-USD:ablation:curvature_only:stress_proxy_recall,True,0.0
+LTC-USD:ablation:curvature_only:stress_proxy_f1,True,0.0
+LTC-USD:weight:level_heavy_1:alpha_block_design,True,0.0
+LTC-USD:weight:level_heavy_1:threshold,True,3.3306690738754696e-16
+LTC-USD:weight:level_heavy_1:k_index,True,0.0
+LTC-USD:weight:level_heavy_1:cal_blocks,True,0.0
+LTC-USD:weight:level_heavy_1:test_blocks,True,0.0
+LTC-USD:weight:level_heavy_1:alarm_blocks,True,0.0
+LTC-USD:weight:level_heavy_1:block_exceedance_rate,True,0.0
+LTC-USD:weight:level_heavy_1:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:weight:level_heavy_1:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:weight:level_heavy_1:daily_exceedance_rate,True,0.0
+LTC-USD:weight:level_heavy_1:stress_event_blocks,True,0.0
+LTC-USD:weight:level_heavy_1:stress_event_prevalence,True,0.0
+LTC-USD:weight:level_heavy_1:stress_hit_blocks,True,0.0
+LTC-USD:weight:level_heavy_1:stress_proxy_precision,True,0.0
+LTC-USD:weight:level_heavy_1:stress_proxy_recall,True,0.0
+LTC-USD:weight:level_heavy_1:stress_proxy_f1,True,0.0
+LTC-USD:Jaccard:level_heavy_1,True,0.0
+LTC-USD:weight:level_heavy_2:alpha_block_design,True,0.0
+LTC-USD:weight:level_heavy_2:threshold,True,0.0
+LTC-USD:weight:level_heavy_2:k_index,True,0.0
+LTC-USD:weight:level_heavy_2:cal_blocks,True,0.0
+LTC-USD:weight:level_heavy_2:test_blocks,True,0.0
+LTC-USD:weight:level_heavy_2:alarm_blocks,True,0.0
+LTC-USD:weight:level_heavy_2:block_exceedance_rate,True,0.0
+LTC-USD:weight:level_heavy_2:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:weight:level_heavy_2:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:weight:level_heavy_2:daily_exceedance_rate,True,0.0
+LTC-USD:weight:level_heavy_2:stress_event_blocks,True,0.0
+LTC-USD:weight:level_heavy_2:stress_event_prevalence,True,0.0
+LTC-USD:weight:level_heavy_2:stress_hit_blocks,True,0.0
+LTC-USD:weight:level_heavy_2:stress_proxy_precision,True,0.0
+LTC-USD:weight:level_heavy_2:stress_proxy_recall,True,0.0
+LTC-USD:weight:level_heavy_2:stress_proxy_f1,True,0.0
+LTC-USD:Jaccard:level_heavy_2,True,0.0
+LTC-USD:weight:equal:alpha_block_design,True,0.0
+LTC-USD:weight:equal:threshold,True,1.1102230246251565e-16
+LTC-USD:weight:equal:k_index,True,0.0
+LTC-USD:weight:equal:cal_blocks,True,0.0
+LTC-USD:weight:equal:test_blocks,True,0.0
+LTC-USD:weight:equal:alarm_blocks,True,0.0
+LTC-USD:weight:equal:block_exceedance_rate,True,0.0
+LTC-USD:weight:equal:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:weight:equal:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:weight:equal:daily_exceedance_rate,True,0.0
+LTC-USD:weight:equal:stress_event_blocks,True,0.0
+LTC-USD:weight:equal:stress_event_prevalence,True,0.0
+LTC-USD:weight:equal:stress_hit_blocks,True,0.0
+LTC-USD:weight:equal:stress_proxy_precision,True,0.0
+LTC-USD:weight:equal:stress_proxy_recall,True,0.0
+LTC-USD:weight:equal:stress_proxy_f1,True,0.0
+LTC-USD:Jaccard:equal,True,0.0
+LTC-USD:weight:curvature_heavy_1:alpha_block_design,True,0.0
+LTC-USD:weight:curvature_heavy_1:threshold,True,0.0
+LTC-USD:weight:curvature_heavy_1:k_index,True,0.0
+LTC-USD:weight:curvature_heavy_1:cal_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_1:test_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_1:alarm_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_1:block_exceedance_rate,True,0.0
+LTC-USD:weight:curvature_heavy_1:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:weight:curvature_heavy_1:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:weight:curvature_heavy_1:daily_exceedance_rate,True,0.0
+LTC-USD:weight:curvature_heavy_1:stress_event_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_1:stress_event_prevalence,True,0.0
+LTC-USD:weight:curvature_heavy_1:stress_hit_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_1:stress_proxy_precision,True,0.0
+LTC-USD:weight:curvature_heavy_1:stress_proxy_recall,True,0.0
+LTC-USD:weight:curvature_heavy_1:stress_proxy_f1,True,0.0
+LTC-USD:Jaccard:curvature_heavy_1,True,0.0
+LTC-USD:weight:curvature_heavy_2:alpha_block_design,True,0.0
+LTC-USD:weight:curvature_heavy_2:threshold,True,3.3306690738754696e-16
+LTC-USD:weight:curvature_heavy_2:k_index,True,0.0
+LTC-USD:weight:curvature_heavy_2:cal_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_2:test_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_2:alarm_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_2:block_exceedance_rate,True,0.0
+LTC-USD:weight:curvature_heavy_2:block_rate_lo,True,1.1102230246251565e-16
+LTC-USD:weight:curvature_heavy_2:block_rate_hi,True,1.1102230246251565e-16
+LTC-USD:weight:curvature_heavy_2:daily_exceedance_rate,True,0.0
+LTC-USD:weight:curvature_heavy_2:stress_event_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_2:stress_event_prevalence,True,0.0
+LTC-USD:weight:curvature_heavy_2:stress_hit_blocks,True,0.0
+LTC-USD:weight:curvature_heavy_2:stress_proxy_precision,True,0.0
+LTC-USD:weight:curvature_heavy_2:stress_proxy_recall,True,0.0
+LTC-USD:weight:curvature_heavy_2:stress_proxy_f1,True,0.0
+LTC-USD:Jaccard:curvature_heavy_2,True,0.0
+LTC-USD:operating_target:0.01:alpha_block_design,True,0.0
+LTC-USD:operating_target:0.01:threshold,True,1.1102230246251565e-16
+LTC-USD:operating_target:0.01:k_index,True,0.0
+LTC-USD:operating_target:0.01:cal_blocks,True,0.0
+LTC-USD:operating_target:0.01:test_blocks,True,0.0
+LTC-USD:operating_target:0.01:alarm_blocks,True,0.0
+LTC-USD:operating_target:0.01:block_exceedance_rate,True,0.0
+LTC-USD:operating_target:0.01:block_rate_lo,True,6.938893903907228e-18
+LTC-USD:operating_target:0.01:block_rate_hi,True,0.0
+LTC-USD:operating_target:0.01:daily_exceedance_rate,True,0.0
+LTC-USD:operating_target:0.01:stress_event_blocks,True,0.0
+LTC-USD:operating_target:0.01:stress_event_prevalence,True,0.0
+LTC-USD:operating_target:0.01:stress_hit_blocks,True,0.0
+LTC-USD:operating_target:0.01:stress_proxy_precision,True,0.0
+LTC-USD:operating_target:0.01:stress_proxy_recall,True,0.0
+LTC-USD:operating_target:0.01:stress_proxy_f1,True,0.0
+LTC-USD:operating_target:0.05:alpha_block_design,True,0.0
+LTC-USD:operating_target:0.05:threshold,True,1.1102230246251565e-16
+LTC-USD:operating_target:0.05:k_index,True,0.0
+LTC-USD:operating_target:0.05:cal_blocks,True,0.0
+LTC-USD:operating_target:0.05:test_blocks,True,0.0
+LTC-USD:operating_target:0.05:alarm_blocks,True,0.0
+LTC-USD:operating_target:0.05:block_exceedance_rate,True,0.0
+LTC-USD:operating_target:0.05:block_rate_lo,True,5.551115123125783e-17
+LTC-USD:operating_target:0.05:block_rate_hi,True,5.551115123125783e-17
+LTC-USD:operating_target:0.05:daily_exceedance_rate,True,0.0
+LTC-USD:operating_target:0.05:stress_event_blocks,True,0.0
+LTC-USD:operating_target:0.05:stress_event_prevalence,True,0.0
+LTC-USD:operating_target:0.05:stress_hit_blocks,True,0.0
+LTC-USD:operating_target:0.05:stress_proxy_precision,True,0.0
+LTC-USD:operating_target:0.05:stress_proxy_recall,True,0.0
+LTC-USD:operating_target:0.05:stress_proxy_f1,True,0.0
+LTC-USD:operating_target:0.1:alpha_block_design,True,0.0
+LTC-USD:operating_target:0.1:threshold,True,0.0
+LTC-USD:operating_target:0.1:k_index,True,0.0
+LTC-USD:operating_target:0.1:cal_blocks,True,0.0
+LTC-USD:operating_target:0.1:test_blocks,True,0.0
+LTC-USD:operating_target:0.1:alarm_blocks,True,0.0
+LTC-USD:operating_target:0.1:block_exceedance_rate,True,0.0
+LTC-USD:operating_target:0.1:block_rate_lo,True,1.1102230246251565e-16
+LTC-USD:operating_target:0.1:block_rate_hi,True,0.0
+LTC-USD:operating_target:0.1:daily_exceedance_rate,True,0.0
+LTC-USD:operating_target:0.1:stress_event_blocks,True,0.0
+LTC-USD:operating_target:0.1:stress_event_prevalence,True,0.0
+LTC-USD:operating_target:0.1:stress_hit_blocks,True,0.0
+LTC-USD:operating_target:0.1:stress_proxy_precision,True,0.0
+LTC-USD:operating_target:0.1:stress_proxy_recall,True,0.0
+LTC-USD:operating_target:0.1:stress_proxy_f1,True,0.0
+LTC-USD:pearson:Training,True,5.551115123125783e-16
+LTC-USD:spearman:Training,True,2.220446049250313e-16
+LTC-USD:pearson:Test,True,2.220446049250313e-16
+LTC-USD:spearman:Test,True,0.0
+"LTC-USD:design:(15, 5, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 5, 0.15):threshold",True,5.551115123125783e-16
+"LTC-USD:design:(15, 5, 0.15):k_index",True,0.0
+"LTC-USD:design:(15, 5, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 5, 0.15):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(15, 5, 0.15):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(15, 5, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 5, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 5, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 5, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 5, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 7, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 7, 0.15):threshold",True,0.0
+"LTC-USD:design:(15, 7, 0.15):k_index",True,0.0
+"LTC-USD:design:(15, 7, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 7, 0.15):block_rate_lo",True,0.0
+"LTC-USD:design:(15, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 7, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 7, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 7, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 7, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 7, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 10, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 10, 0.15):threshold",True,5.551115123125783e-16
+"LTC-USD:design:(15, 10, 0.15):k_index",True,0.0
+"LTC-USD:design:(15, 10, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 10, 0.15):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(15, 10, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 10, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 10, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 10, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 10, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 10, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 5, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 5, 0.2):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 5, 0.2):k_index",True,0.0
+"LTC-USD:design:(15, 5, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 5, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(15, 5, 0.2):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(15, 5, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 5, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 5, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 5, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 5, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 7, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 7, 0.2):threshold",True,0.0
+"LTC-USD:design:(15, 7, 0.2):k_index",True,0.0
+"LTC-USD:design:(15, 7, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 7, 0.2):block_rate_lo",True,0.0
+"LTC-USD:design:(15, 7, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 7, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 7, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 7, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 7, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 7, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 10, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 10, 0.2):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 10, 0.2):k_index",True,0.0
+"LTC-USD:design:(15, 10, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 10, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(15, 10, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 10, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 10, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 10, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 10, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 10, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 5, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 5, 0.25):threshold",True,0.0
+"LTC-USD:design:(15, 5, 0.25):k_index",True,0.0
+"LTC-USD:design:(15, 5, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 5, 0.25):block_rate_lo",True,1.3877787807814457e-17
+"LTC-USD:design:(15, 5, 0.25):block_rate_hi",True,0.0
+"LTC-USD:design:(15, 5, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 5, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 5, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 5, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 5, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 5, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 7, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 7, 0.25):threshold",True,0.0
+"LTC-USD:design:(15, 7, 0.25):k_index",True,0.0
+"LTC-USD:design:(15, 7, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 7, 0.25):block_rate_lo",True,0.0
+"LTC-USD:design:(15, 7, 0.25):block_rate_hi",True,0.0
+"LTC-USD:design:(15, 7, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 7, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 7, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 7, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 7, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 7, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(15, 10, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(15, 10, 0.25):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 10, 0.25):k_index",True,0.0
+"LTC-USD:design:(15, 10, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 10, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(15, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(15, 10, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(15, 10, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(15, 10, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(15, 10, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(15, 10, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(15, 10, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 5, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 5, 0.15):threshold",True,2.220446049250313e-16
+"LTC-USD:design:(30, 5, 0.15):k_index",True,0.0
+"LTC-USD:design:(30, 5, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 5, 0.15):block_rate_lo",True,6.938893903907228e-17
+"LTC-USD:design:(30, 5, 0.15):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(30, 5, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 5, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 5, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 5, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 5, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 7, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 7, 0.15):threshold",True,0.0
+"LTC-USD:design:(30, 7, 0.15):k_index",True,0.0
+"LTC-USD:design:(30, 7, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 7, 0.15):block_rate_lo",True,1.1102230246251565e-16
+"LTC-USD:design:(30, 7, 0.15):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(30, 7, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 7, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 7, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 7, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 7, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 10, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 10, 0.15):threshold",True,0.0
+"LTC-USD:design:(30, 10, 0.15):k_index",True,0.0
+"LTC-USD:design:(30, 10, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 10, 0.15):block_rate_lo",True,0.0
+"LTC-USD:design:(30, 10, 0.15):block_rate_hi",True,0.0
+"LTC-USD:design:(30, 10, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 10, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 10, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 10, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 10, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 5, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 5, 0.2):threshold",True,0.0
+"LTC-USD:design:(30, 5, 0.2):k_index",True,0.0
+"LTC-USD:design:(30, 5, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 5, 0.2):block_rate_lo",True,4.163336342344337e-17
+"LTC-USD:design:(30, 5, 0.2):block_rate_hi",True,0.0
+"LTC-USD:design:(30, 5, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 5, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 5, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 5, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 5, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 7, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 7, 0.2):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(30, 7, 0.2):k_index",True,0.0
+"LTC-USD:design:(30, 7, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 7, 0.2):block_rate_lo",True,5.551115123125783e-17
+"LTC-USD:design:(30, 7, 0.2):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(30, 7, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 7, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 7, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 7, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 7, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 10, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 10, 0.2):threshold",True,0.0
+"LTC-USD:design:(30, 10, 0.2):k_index",True,0.0
+"LTC-USD:design:(30, 10, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 10, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(30, 10, 0.2):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(30, 10, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 10, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 10, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 10, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 10, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 5, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 5, 0.25):threshold",True,2.220446049250313e-16
+"LTC-USD:design:(30, 5, 0.25):k_index",True,0.0
+"LTC-USD:design:(30, 5, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 5, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(30, 5, 0.25):block_rate_hi",True,0.0
+"LTC-USD:design:(30, 5, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 5, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 5, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 5, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 5, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 5, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 7, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 7, 0.25):threshold",True,0.0
+"LTC-USD:design:(30, 7, 0.25):k_index",True,0.0
+"LTC-USD:design:(30, 7, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 7, 0.25):block_rate_lo",True,5.551115123125783e-17
+"LTC-USD:design:(30, 7, 0.25):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(30, 7, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 7, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 7, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 7, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 7, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 7, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(30, 10, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(30, 10, 0.25):threshold",True,0.0
+"LTC-USD:design:(30, 10, 0.25):k_index",True,0.0
+"LTC-USD:design:(30, 10, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 10, 0.25):block_rate_lo",True,5.551115123125783e-17
+"LTC-USD:design:(30, 10, 0.25):block_rate_hi",True,1.1102230246251565e-16
+"LTC-USD:design:(30, 10, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(30, 10, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(30, 10, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(30, 10, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(30, 10, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(30, 10, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 5, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 5, 0.15):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(60, 5, 0.15):k_index",True,0.0
+"LTC-USD:design:(60, 5, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 5, 0.15):block_rate_lo",True,5.551115123125783e-17
+"LTC-USD:design:(60, 5, 0.15):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(60, 5, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 5, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 5, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 5, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 5, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 7, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 7, 0.15):threshold",True,0.0
+"LTC-USD:design:(60, 7, 0.15):k_index",True,0.0
+"LTC-USD:design:(60, 7, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 7, 0.15):block_rate_lo",True,5.551115123125783e-17
+"LTC-USD:design:(60, 7, 0.15):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(60, 7, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 7, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 7, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 7, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 7, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 10, 0.15):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 10, 0.15):threshold",True,0.0
+"LTC-USD:design:(60, 10, 0.15):k_index",True,0.0
+"LTC-USD:design:(60, 10, 0.15):cal_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.15):test_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.15):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.15):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 10, 0.15):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(60, 10, 0.15):block_rate_hi",True,0.0
+"LTC-USD:design:(60, 10, 0.15):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 10, 0.15):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.15):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 10, 0.15):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.15):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 10, 0.15):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 10, 0.15):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 5, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 5, 0.2):threshold",True,0.0
+"LTC-USD:design:(60, 5, 0.2):k_index",True,0.0
+"LTC-USD:design:(60, 5, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 5, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(60, 5, 0.2):block_rate_hi",True,0.0
+"LTC-USD:design:(60, 5, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 5, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 5, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 5, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 5, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 7, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 7, 0.2):threshold",True,0.0
+"LTC-USD:design:(60, 7, 0.2):k_index",True,0.0
+"LTC-USD:design:(60, 7, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 7, 0.2):block_rate_lo",True,0.0
+"LTC-USD:design:(60, 7, 0.2):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(60, 7, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 7, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 7, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 7, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 7, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 10, 0.2):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 10, 0.2):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(60, 10, 0.2):k_index",True,0.0
+"LTC-USD:design:(60, 10, 0.2):cal_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.2):test_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.2):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.2):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 10, 0.2):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(60, 10, 0.2):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(60, 10, 0.2):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 10, 0.2):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.2):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 10, 0.2):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.2):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 10, 0.2):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 10, 0.2):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 5, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 5, 0.25):threshold",True,0.0
+"LTC-USD:design:(60, 5, 0.25):k_index",True,0.0
+"LTC-USD:design:(60, 5, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 5, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(60, 5, 0.25):block_rate_hi",True,0.0
+"LTC-USD:design:(60, 5, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 5, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 5, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 5, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 5, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 5, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 7, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 7, 0.25):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(60, 7, 0.25):k_index",True,0.0
+"LTC-USD:design:(60, 7, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 7, 0.25):block_rate_lo",True,0.0
+"LTC-USD:design:(60, 7, 0.25):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(60, 7, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 7, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 7, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 7, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 7, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 7, 0.25):stress_proxy_f1",True,0.0
+"LTC-USD:design:(60, 10, 0.25):alpha_block_design",True,0.0
+"LTC-USD:design:(60, 10, 0.25):threshold",True,1.1102230246251565e-16
+"LTC-USD:design:(60, 10, 0.25):k_index",True,0.0
+"LTC-USD:design:(60, 10, 0.25):cal_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.25):test_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.25):alarm_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.25):block_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 10, 0.25):block_rate_lo",True,2.7755575615628914e-17
+"LTC-USD:design:(60, 10, 0.25):block_rate_hi",True,5.551115123125783e-17
+"LTC-USD:design:(60, 10, 0.25):daily_exceedance_rate",True,0.0
+"LTC-USD:design:(60, 10, 0.25):stress_event_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.25):stress_event_prevalence",True,0.0
+"LTC-USD:design:(60, 10, 0.25):stress_hit_blocks",True,0.0
+"LTC-USD:design:(60, 10, 0.25):stress_proxy_precision",True,0.0
+"LTC-USD:design:(60, 10, 0.25):stress_proxy_recall",True,0.0
+"LTC-USD:design:(60, 10, 0.25):stress_proxy_f1",True,0.0
+MonteCarlo:HAR_RV:mean:0.01,True,0.0
+MonteCarlo:HAR_RV:absolute_gap:0.01,True,1.3877787807814457e-17
+MonteCarlo:HAR_RV:ranges:0.01,True,0.0
+MonteCarlo:HAR_RV:mean:0.05,True,0.0
+MonteCarlo:HAR_RV:absolute_gap:0.05,True,0.0
+MonteCarlo:HAR_RV:ranges:0.05,True,0.0
+MonteCarlo:HAR_RV:mean:0.1,True,0.0
+MonteCarlo:HAR_RV:absolute_gap:0.1,True,0.0
+MonteCarlo:HAR_RV:ranges:0.1,True,0.0
+MonteCarlo:SV_AR1:mean:0.01,True,0.0
+MonteCarlo:SV_AR1:absolute_gap:0.01,True,0.0
+MonteCarlo:SV_AR1:ranges:0.01,True,0.0
+MonteCarlo:SV_AR1:mean:0.05,True,0.0
+MonteCarlo:SV_AR1:absolute_gap:0.05,True,0.0
+MonteCarlo:SV_AR1:ranges:0.05,True,0.0
+MonteCarlo:SV_AR1:mean:0.1,True,0.0
+MonteCarlo:SV_AR1:absolute_gap:0.1,True,0.0
+MonteCarlo:SV_AR1:ranges:0.1,True,0.0
+MonteCarlo:SV_BREAK:mean:0.01,True,0.0
+MonteCarlo:SV_BREAK:absolute_gap:0.01,True,2.7755575615628914e-17
+MonteCarlo:SV_BREAK:ranges:0.01,True,0.0
+MonteCarlo:SV_BREAK:mean:0.05,True,0.0
+MonteCarlo:SV_BREAK:absolute_gap:0.05,True,0.0
+MonteCarlo:SV_BREAK:ranges:0.05,True,0.0
+MonteCarlo:SV_BREAK:mean:0.1,True,0.0
+MonteCarlo:SV_BREAK:absolute_gap:0.1,True,0.0
+MonteCarlo:SV_BREAK:ranges:0.1,True,0.0
+Random:BTC-USD:rate,True,0.0
+Random:BTC-USD:gap,True,0.0
+Random:BTC-USD:recall,True,5.551115123125783e-17
+Random:BTC-USD:ranges,True,0.0
+Random:ETH-USD:rate,True,0.0
+Random:ETH-USD:gap,True,0.0
+Random:ETH-USD:recall,True,0.0
+Random:ETH-USD:ranges,True,0.0
+Random:LTC-USD:rate,True,0.0
+Random:LTC-USD:gap,True,1.3877787807814457e-17
+Random:LTC-USD:recall,True,0.0
+Random:LTC-USD:ranges,True,0.0
+Random:XRP-USD:rate,True,0.0
+Random:XRP-USD:gap,True,0.0
+Random:XRP-USD:recall,True,5.551115123125783e-17
+Random:XRP-USD:ranges,True,0.0
